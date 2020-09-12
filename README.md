@@ -23,3 +23,36 @@
   
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%204.PNG)
 
+**Day5 of 66DaysOfData!**
+- Natural Language Processing is a field of Linguistics, Computer Science, and Artificial Intelligence concerned with the interactions between Computers and Human language, in particular how to program computers to process and analyze large amounts of Natural Language Data. As a part of Natural Langauge Processing journey, I have started the book, [Natural Language Processing with Python](https://www.nltk.org/book/). It's really amazing and I have encountered some very basic functions but unknown to me such as concordance function, similar function, common context function and a basic dispersion plot as well. I will be using this book in my journey. Excited for the days ahead!!
+- [**Natural Language Processing with Python :)**](https://www.nltk.org/book/)
+
+**Day6 of 66DaysOfData!**
+- In my journey of Natural Language Processing, Today I have explored about Gutenberg Corpus using NLTK and Python. I have also learned about various interesting challenges with proper explanation of each topic under the hood of NLP such as:
+  - Word Sense Disambiguation: In NLP, Word Sense Disambiguation is an open problem concerned with identifying which sense of a word is used in a sentence. The solution to this issue impacts other Computer related writing such as discourse, improving relevance of Search Engines, Anaphora Resolution, Coherence, and Inference.
+  - Pronounce Resolution
+  - Generating Language Output
+  - Machine Translation: Machine Translation is a sub field of Computational Linguistics that investigates the use of software to translate text or speech from one language to another.
+  - Spoken Dialog System
+  - Textual Entailment
+
+![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%206.PNG)
+
+**Day7 of 66DaysOfData!**
+- In my journey of Natural Language Processing, Today I have learned about different Text Corpora and Basic Corpus Functionality defined in NLTK. I have also learned about Loading own Corpus, Plotting and Tabulating Distributions and Generating Random Text with Bigrams. The topics I have covered are summarized below:
+  - Web and Chat Text
+  - Brown Corpus
+  - Reuters Corpus
+  - Inaugural Address Corpus
+  - Annotated Text Corpora
+  - Corpora in Other Languages
+  - Conditional Frequency Distributions
+
+![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%207.PNG)
+
+**Day8 of 66DaysOfData!**
+- In my journey of Natural Language Processing, Today I am learning about Processing Raw Text in Natural Language Processing. Basically, I have completed processing the Text from Electronic Books and from HTML documents. Apart from that, I have learned about WordNet. The topics I have covered in WordNet are:
+  - The WordNet Hierarchy and
+  - Semantic Similarity: Semantic similarity is a metric defined over a set of documents or terms, where the idea of distance between items is based on the likeness of their meaning or semantic content as opposed to lexicographical similarity. Example: "Road" and "Driving".
+
+![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%208.PNG)
