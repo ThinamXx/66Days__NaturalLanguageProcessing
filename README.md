@@ -56,3 +56,16 @@
   - Semantic Similarity: Semantic Similarity is a metric defined over a set of Documents or Terms where the idea of distance between items is based on the likeness of their meaning or semantic content as opposed to Lexicographical Similarity. Example:"Road" and "Driving".
 
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%208.PNG)
+
+**Day9 of 66DaysOfData!**
+- In my journey of Natural Language Processing, Today I have learned about Text Processing with Unicode and Regular Expressions for Detecting Word Patterns with proper explanations. Within a Program, we can manipulate Unicode just like normal strings. Unicode are encoded as stream of bytes. Examples: ASCII, Latin-2, UTF-8. I have also implemented the Regular Expressions for Detecting the Word Patterns using basic meta characters such as:
+  - Dollar sign ( $ ) matches the characters of the end of word.
+  - Dot symbol ( . ) matches any single character.
+  - Caret symbol ( ^ ) matches the characters of the start of word.
+  - Question mark ( ? ) specifies the previous character is optional.
+  - Plus sign ( + ) means one or more instances of the preceding item.
+  - Sign ( * ) means zero or more instances of the preceding item.
+  - Backslash ( \ ) means following character is deprived.
+  - Pipe symbol ( | ) specifies the choice between left and right.
+
+![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%209.PNG)
