@@ -74,3 +74,12 @@
 - In my journey of Natural Language Processing, Today I have learned about the various useful applications of Regular Expressions such as Finding Word Stems, Regular Expressions for Tokenizing Text, Normalizing Text such as Stemmers and Lemmatization. I have also read about the issues of Tokenization: Tokenization turns out to be far more difficult task than one might have expected. No single solution works well accross the board. Another issue of Tokenization is the presence of contractions as well. Example: didn't.
 
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%2010.PNG)
+
+**Day11 of 66DaysOfData!**
+- In my journey of Natural Language Processing, Today I have completed all the preliminaries process or techniques required in Natural Language Processing included in the book, "Natural Language Processing with Python". I have completed the topics such as Tokenization, Stemming, Lemmatization and Text Processing with Regular Expressions. Apart from that, I have also worked with various Text Corpora such as Brown Corpus, Inaugural Address Corpus, Reuters Corpus and so on. And I have completed first 110 pages of the book, Natural Language Processing with Python".
+
+![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%2011%20a.PNG)
+
+- I have plotted a simple bar plot using various categories of Brown Corpus presenting the Frequency Distribution of various words appearing inside the Corpus. I hope you can gain insights from the plot as well. Excited about the days ahead !!
+
+![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%2011.PNG)
