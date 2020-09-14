@@ -76,7 +76,7 @@
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%2010.PNG)
 
 **Day11 of 66DaysOfData!**
-- In my journey of Natural Language Processing, Today I have completed all the preliminaries process or techniques required in Natural Language Processing included in the book, "Natural Language Processing with Python". I have completed the topics such as Tokenization, Stemming, Lemmatization and Text Processing with Regular Expressions. Apart from that, I have also worked with various Text Corpora such as Brown Corpus, Inaugural Address Corpus, Reuters Corpus and so on. And I have completed first 110 pages of the book, Natural Language Processing with Python".
+- In my journey of Natural Language Processing, Today I have completed all the preliminaries process or techniques required in Natural Language Processing included in the book, "Natural Language Processing with Python". I have completed the topics such as Tokenization, Stemming, Lemmatization and Text Processing with Regular Expressions. Apart from that, I have also worked with various Text Corpora such as Brown Corpus, Inaugural Address Corpus, Reuters Corpus and so on. And I have completed first 110 pages of the book, "Natural Language Processing with Python".
 
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%2011%20a.PNG)
 
