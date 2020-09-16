@@ -88,3 +88,8 @@
 - Part of Speech Tagging: The process of classifying words into their "Parts of Speech" and Labeling them accordingly is known as Part of Speech Tagging which is also known as POS tagging or simply Tagging. The collections of tags used for a particular task is known as Tagset. In my journey of Natural Language Processing, Today I have learned about Automatic Tagging such as Default Tagger, Regular Expression Tagger and Lookup Tagger along with N-Gram Tagging such as Unigram Tagger, Bigram Tagger and so on. I have also learned about Combining Taggers using backoff parameter. I hope you can gain insights about the Implementation of Tagging. Excited about the days to come !!
 
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%2012.PNG)
+
+**Day13 of 66DaysOfData!**
+- Supervised Classification: Classification is the process of choosing the correct class label for a given input. The Classification is said to be Supervised Classification if it is built based on training corpora containing the correct label for each input. One common example of Classification is deciding whether an Email is spam or not. In my journey of Natural Language Processing, Today I have learned about Supervised Classification. I have covered the topics such as Choosing Right Features, Document Classification, Gender Identification, Part of Speech Tagging using Naive Bayes Classifier and Decision Trees Classifier under the hood of Supervised Classification of NLP. I have presented the basic Implementation of Naive Bayes Classifier in Document Classification and I hope you can gain insights from it as well. Excited about the days ahead!!
+
+![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%2013.PNG)
