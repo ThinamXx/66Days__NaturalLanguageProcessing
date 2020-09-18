@@ -102,7 +102,7 @@
 **Day15 of 66DaysOfData!**
 - Singular Value Decomposition (SVD): The words that appear most frequently in one topic would appear less frequently in the other, otherwise that word wouldn't make a good choice to separate out the two topics. Therefore, the topics are Orthogonal. The SVD algorithm factorizes a matrix into one matrix with orthogonal columns and one with orthogonal rows along with diagonal matrix which contains the relative importance of each factor.
 - NonNegative Matrix Factorization (NMF): Non Negative Matrix Factorization (NMF) is a factorization or constrain of non negative dataset. NMF is non exact factorization that factors into one short positive matrix.
-- TFIDF is a way to normalize the term counts by taking into account how often they appear in a document and how long the document is and how common or rare the document is.
+- Topic Frequency Inverse Document Frequency (TFIDF): TFIDF is a way to normalize the term counts by taking into account how often they appear in a document and how long the document is and how common or rare the document is.
 - In my journey of Natural Language Processing, Today I have learned and implemented SVD, NMF and TFIDF in Topic Modeling project. I have captured just the overview of the implementations here. I hope you can gain insights.
 
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%2015.PNG)
