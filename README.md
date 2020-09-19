@@ -107,3 +107,8 @@
 
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%2015.PNG)
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%2015%20a.PNG)
+
+**Day16 of 66DaysOfCode!**
+- In my journey of Natural Language Processing, Today I have learned the Implementations of NLP from Fastai course which has been published recently. As the Fastai course primarily focuses on the Coding part and follows the top down aspect of Learning and Teaching. It's bit complicated to learn than other courses. Fastai's API is really amazing and powerful as well. I learned the basic steps of NLP with Fastai such as Word Tokenization, Subword Tokenization, Numericalization, and Preparing TextBlock and DataBlock. I am currently working on Sentiment Analysis of IMDB reviews using Fastai. I have shared the Implementations of the Word Tokenization, Subword Tokenization, Numericalization and process to prepare the TextBlock and DataBlock with Fastai here. I hope you can gain insights about the Implementation of Fastai from here. Excited about the days ahead!!
+
+![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%2016.PNG)
