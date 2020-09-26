@@ -109,18 +109,18 @@
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%2015.PNG)
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%2015%20a.PNG)
 
-**Day16 of 66DaysOfCode!**
+**Day16 of 66DaysOfData!**
 - In my journey of Natural Language Processing, Today I have learned the Implementations of NLP from Fastai course which has been published recently. As the Fastai course primarily focuses on the Coding part and follows the top down aspect of Learning and Teaching. It's bit complicated to learn than other courses. Fastai's API is really amazing and powerful as well. I learned the basic steps of NLP with Fastai such as Word Tokenization, Subword Tokenization, Numericalization, and Preparing TextBlock and DataBlock. I am currently working on Sentiment Analysis of IMDB reviews using Fastai. I have shared the Implementations of the Word Tokenization, Subword Tokenization, Numericalization and process to prepare the TextBlock and DataBlock with Fastai here. I hope you can gain insights about the Implementation of Fastai from here. Excited about the days ahead!!
 
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%2016.PNG)
 
-**Day17 of 66DaysOfCode!**
+**Day17 of 66DaysOfData!**
 - In my journey of Natural Language Processing, Today I have learned about the Implementation of Fastai in preparing a Sentiment Classifier Model. I have prepared a Model using Fastai API which can classify Sentiment of Internet Movie Database reviews i.e. classifying the Positive or Negative Sentiment. Fastai's API is really powerful and effective so that the Model can classify the Sentiment of Internet Movie Database reviews with above 90% accuracy in just few lines of code. I have learned about Word Tokenization, Subword Tokenization, Numericalization, TextBlock and DataBlock API and Training the Classifier Model using Fastai.I have presented the snapshot of the Implementation of Fastai API in preparing the Language Model and Training the Model. I have also presented the Implementation of Fastai API in preparing the Classifier Model using the Language Model and also the concept of unfreezing the Model. I hope you can gain insights from here as well. This snapshot is the continuation of yesterday's snapshot. Excited about the days ahead!!
 - [**Sentiment Classification of Internet Movie Database reviews**](https://github.com/ThinamXx/InternetMovieDatabase__NLP/blob/master/IMDB.ipynb)
 
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%2017.PNG)
 
-**Day18 of 66DaysOfCode!**
+**Day18 of 66DaysOfData!**
 - In my journey of Natural Language Processing, Today I have read a topic of Natural Language Processing in the book [**Dive into Deep Learning**](https://d2l.ai/) by Aston Zhang. Here, I have covered the topics such as Text Processing, Machine Translation, Natural Language Processing pre training and Word Embedding. The information and explanations were great and the code implementation is in MXNET. I am not quite familiar with MXNET framework so I have just presented a small snapshot here. Apart from that, Today I have read a very small part of the book [**Natural Language Processing in Action**](https://g.co/kgs/U82Sem) by Hobson Lane. I am so much thankful to Anthony Camarillo for sharing this book with me. And I will give continuation with this book [**Natural Language Processing in Action**](https://g.co/kgs/U82Sem). Excited about the days ahead!!
 
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%2018.PNG)
@@ -130,22 +130,22 @@
 
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%2019.PNG)
 
-**Day20 of 66DaysOfCode!**
+**Day20 of 66DaysOfData!**
 - In my journey of Natural Language Processing, Today I have read a couple of topics under the hood of Natural Language Processing such as Tokenized Phrase, Dot Product in NLP, Bag of Words and Overlapping, Token improvement with Regex which is apart from Regular Expressions, Contractions, Extending Vocabulary with NGrams. I have also read and implemented the Regex Tokenizer, Tree Bank Tokenizer and Casual Tokenizer. Actually I am continuing my learning journey with a book [Natural Language Processing in Action](https://g.co/kgs/U82Sem) and lots of the preprocessing concepts which I have already read are coming along my way. I prefer to go through the concepts again because I don't want to skip any topics from this book. Although the concepts might match along the way I won't repeat the same implementation in any of my Snapshots. I have presented the Implementation of Regex Tokenizer, Tree Bank Tokenizer, Casual Tokenizer and NGrams here in the Snapshots. These Tokenization steps are more better than Traditional Tokenization steps using Regular Expressions. I hope you will spend some time to learn about these Tokenizers. Excited about the days ahead!!
 
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%2020.PNG)
 
-**Day21 of 66DaysOfCode!**
+**Day21 of 66DaysOfData!**
 - In my journey of Natural Language Processing, Today I have read and implemented about Stopwords, Stemming, Lemmatization and Sentiment Analysis using VADER Approach which is the Algorithm composed by human and also the Machine Learning Approach with the help of Naive Bayes Classifier. I have completed the first 2 chapters of the book, [Natural Language Processing in Action](https://g.co/kgs/U82Sem) and it is helping me a lot along my journey. I have presented the Implementation of VADER Approach in Sentiment Analysis along with Naive Bayes Classifier and I have also included the Implementation of Casual Tokenizer in the Movies Dataset. I hope you will gain insights about the Implementation of VADER Approach and Naive Bayes in Sentiment Analysis. Actually, VADER Approach is not as efficient as Machine Learning Approach such as Naive Bayes Classifier. I hope you will spend some time in learning about Naive Bayes in Sentiment Analysis along with VADER Approach. Excited about the days to come!!
 
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%2021.PNG)
 
-**Day22 of 66DaysOfCode!**
+**Day22 of 66DaysOfData!**
 - In my journey of Natural Language Processing, Today I have read and Implemented about Bag of Words, Vectorizing concept, Vector Spaces, Cosine Similarity, Zipf's Law and Inverse Frequency concept, Text Modeling, TFIDF, Relevance Ranking and Okapi BM25 concept. I have completed the first three chapters of the book [Natural Language Processing in Action](https://g.co/kgs/U82Sem) and this chapter primarily focuses on the concept of Vectorizing the Tokens which are obtained after Tokenization using TFIDF Vectorizer. Text Vectorization is the process of converting Text into Numerical representation. I have also read and Implemented the concept of Cosine Similarity under the hood of Natural Language Processing. I have presented the Implementation of TFIDF Vectorizer and also the process of Tokenizing the Text Documents and removing the Stopwords. I have also Implemented the Cosine Similarity using Numpy and pure Python as well in this Snapshot. I hope you will gain insights about Text Vectorization and Tokenization from here. Excited about the days to come!!
 
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%2022.PNG)
 
-**Day23 of 66DaysOfCode!**
+**Day23 of 66DaysOfData!**
 - In my journey of Natural Language Processing, Today I have started learning about Semantic Analysis. I have read and implemented about Topic Vectors, Algorithms for Scoring Topics and Semantic Analysis such as Latent Semantic Analysis **LSA**, Linear Discriminant Analysis **LDA** and Latent Dirichlet Allocation **LDIA**. Today, I primarily focused on reading and Implementing about Linear Discriminant Analysis **LDA**. LDA is one of the most straight forward and fast Dimension Reduction and Classification Models. In Natural Language Processing, Semantic Analysis is the process of relating the Syntactic structures from the levels of Phrases, Clauses, Sentences and Paragraphs to the level of the writing as a whole and to their Language dependent meanings. I have presented the Implementation of LDA's working Principal which states that Computing the centroid of TFIDF vectors for each side of the binary Class here in the Snapshot. I hope you will gain insights about Implementation of LDA Classifier and creating NLP Pipeline of Tokenizer and Vectorizer from here. And I hope you will spend some time in learning about Semantic Analysis as well. Excited about the days ahead !!
 
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%2023.PNG)
