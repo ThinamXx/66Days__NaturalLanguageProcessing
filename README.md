@@ -171,3 +171,8 @@
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2027b.PNG)
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2027a.PNG)
+
+**Day28 of 66DaysOfData!**
+- In my journey of Natural Language Processing, Today I have read and Implemented about Convolutional Neural Network for Natural Language Processing. I have covered the topics such as Convolutional Neural Network Architecture, Pooling, Dropout, CNN parameters, Optimization and Training CNN Model under the hood of Convolutional Neural Network for Natural Language Processing. I have presented the overall Implementation of Convolutional Neural Network here in the Snapshot. I have also presented the short info of all the parameters mentioned in the CNN Model and the process of Compiling and Training the Model as well. I hope you will gain insights about the Implementation of CNN Model in Sentiment Analysis. Actually, It is the continuation of yesterday's Snapshots. I hope you will also spend some time working on it. I have completed working on the Sentiment Analysis of Large Movie Review Dataset. I have prepared a Model using Convolutional Neural Network which can classify the Sentiment of Text Data. The Notebook with complete Documentation is here: [**Sentiment Analysis of Large Movie Dataset**](https://github.com/ThinamXx/ConvolutionalNeuralNetwork__andNLP.git). Excited about the days to come!!
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2028.PNG)
