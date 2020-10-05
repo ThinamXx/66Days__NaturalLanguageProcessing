@@ -193,3 +193,8 @@
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/31a.PNG)
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/31b.PNG)
+
+**Day32 of 66DaysOfData!**
+- In my journey of Natural Language Processing, Today I have read and Implemented the topics such as Encoder and Decoder Architecture in Sequence to sequence Models, Thought Vector, Decoding Thought using LSTM, Sequence Encoder and Keras Functional API in assembling Sequence to Sequence Pipeline under the hood of Natural Language Processing. I have started working on building a Chatbot using Sequence to sequence Neural Networks and Keras Functional API. I have presented the simple Implementation of processing the Text Corpus and few steps to make the Text Data ready to train the Sequence to sequence Chatbot here in the Snapshot. I will be using the Cornell Dialog Dataset for training the Chatbot. I hope you will gain some insights from it and you will also spend some time working on the same. I will continue working on this Project and I am so much excited about the days to come!! [**Chatbot with Sequence to sequence Networks**](https://github.com/ThinamXx/Chatbot.git).
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2032.PNG)
