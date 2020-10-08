@@ -210,3 +210,10 @@
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2034a.PNG)
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2034b.PNG)
+
+**Day35 of 66DaysOfData!**
+- In my journey of Natural Language Processing, Today I have read and Implemented The Supervised Learning Paradigm, Computational Graphs, PyTorch Basics and various NLP fundamentals such as Tokenization, Lemmatization, Tagging and Semantics. I have also read and Implemented about Activation Functions such as Sigmoid, Tanh, ReLU, Softmax and Loss Functions such as Mean Squared Error and Cross Entropy under the hood of **Natural Language Processing with PyTorch**. I have presented the Implementation of PyTorch in various Activation Functions and Loss Functions along with few preliminaries for Understanding and working with PyTorch here in the Snapshots. I hope you will get some insights about the Implementations of PyTorch and I hope that you will also spend some time working on the same and get ready to start the Implementation of PyTorch in Natural Language Processing in coming days!!
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2035a.PNG)
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2035b.PNG)
