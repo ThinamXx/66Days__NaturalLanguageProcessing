@@ -225,8 +225,8 @@
 
 **Day37 of 66DaysOfData!**
 - In my journey of Natural Language Processing, Today I have read and Implemented about PyTorch's Data Representation, The Vocabulary Class, The Vectorizer Class and The DataLoader Class under the hood of **Natural Language Processing with PyTorch**. I am continuing my journey along with the book **Natural Language Processing with PyTorch**. 
-- **The Vocabulary Class**
-  - The Vocabulary Class not only manages the Bijection i.e Allowing user to add new Tokens and have the Index auto increment but also handles the special token called UNK which stands for Unknown. By using the UNK Token, It will be easy to handle Tokens at Test time that were never seen in Training Instance.
+  - **The Vocabulary Class**
+    - The Vocabulary Class not only manages the Bijection i.e Allowing user to add new Tokens and have the Index auto increment but also handles the special token called UNK which stands for Unknown. By using the UNK Token, It will be easy to handle Tokens at Test time that were never seen in Training Instance.
 - **The Vectorizer Class**
   - The second stage of going from a Text Dataset to a vectorized minibatch is to iterate through the Tokens of an Input Data Point and convert each Token to its Integer form. The result of this iteration should be a Vector. Because this Vector will be combined with Vectors from other Data points, there is Constraint that the Vectors produced by the Vectorizer should always have the same length.
 - **The DataLoader Class**
