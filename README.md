@@ -236,3 +236,10 @@
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2037a.PNG)
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2037b.PNG)
+
+**Day38 of 66DaysOfData!**
+- In my journey of Natural Language Processing, Today I have read and Implemented about Perceptron Classifier, The Training Routine Class using PyTorch's Implementation, The Training Loop, Evaluation, Inference and Inspection of the Model prepared using PyTorch under the hood of "Natural Language Processing with PyTorch". I am continuing my journey along with the book, **Natural Language Processing with PyTorch**. Today, I have continued working with YELP Review Dataset for Sentiment Analysis using PyTorch. I have presented the simple Implementation of PyTorch in Training the Classifier Model along with the process of Instantiating the Dataset, Model, Loss, Optimizer and Training State here in the Snapshots. Actually, It is the continuation of yesterday's Snapshot. I hope you will gain some insights about the Implementation of PyTorch in Natural Lanuage Processing from here. And I hope you will also spend some time working on the same. [**YELP Reviews Sentiment Analysis**](https://github.com/ThinamXx/YELPReviews__PyTorch.git). I am so much excited about the days to come !!
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2038b.PNG)
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2038a.PNG)
