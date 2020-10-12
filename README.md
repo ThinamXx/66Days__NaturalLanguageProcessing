@@ -243,3 +243,10 @@
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2038b.PNG)
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2038a.PNG)
+
+**Day39 of 66DaysOfData!**
+- Long Short Term Memory (LSTM): Long Short Term Memory or LSTM is an Artificial Recurrent Neural Network or RNN architecture used in the field of Deep Learning. LSTM has Feedback connections. It can not only process single data points, but also entire sequences of data such as Speech or Video. In my journey of Natural Language Processing, Today I have started working on new Text Dataset i.e Amazon Electronics Reviews Dataset for Analysis using only TensorFlow and TensorBoard. I will be working on the same until I finish it completely. Apart from that, Today I have watched some videos on YouTube and read some Notebooks in Kaggle under the hood of Natural Language Processing. I have presented the overall Implementation of TensorFlow and TensorBoard in Processing the Data such as Tokenization and Encoding and the techniques for preparing LSTM Model here in the Snapshots. I hope you will gain some insights and you will also spend some time working on the same. [**Amazon Reviews Analysis**](https://github.com/ThinamXx/NaturalLanguageProcessing_Series/tree/main/Amazon%20Reviews%20Sentiment%20Analysis). Excited about the days to come!!
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2039a.PNG)
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2039b.PNG)
