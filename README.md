@@ -258,7 +258,6 @@
 
 **Day41 of 66DaysOfData!**
 - In my journey of Natural Language Processing, Today I have read and Implemented about Feed Forward Networks for Natural Language Processing using PyTorch. I have covered the topics such as The Multi Layer Perceptron or MLP, Simple XOR Functions with MLP using PyTorch and Softmax Activation Function under the hood of **Natural Language Processing with PyTorch**. I have started working in Surname Classification Model Inferring Demographic Information which has applications from Product Recommendations to ensuring fair outcomes for users across different Demographics. I will be using PyTorch for building the Classifier Model. I have presented the Implementation of PyTorch in building the simple MLP Class here in the Snapshots. I have also presented the techniques for processing the raw Dataset for Surname Classification Project using PyTorch. I hope you will gain some insights and you will also spend some time learning about MLP and working on the same and get ready for building the Model. Excited about the days ahead !!
-
 - [**Surname Classification with Demographics: PyTorch**](https://github.com/ThinamXx/SurnameClassification__PyTorch.git)
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2041a.PNG)
@@ -267,7 +266,6 @@
 
 **Day42 of 66DaysOfData!**
 - The Vectorizer Class: The Vocabulary converts individual tokens into Integers and The Surname Vectorizer is responsible for applying the Vocabulary and converting surname into Vectors. Surnames are sequence of characters and each character is an individual token in the Vocabulary. In my journey of Natural Language Processing, Today I have read and Implemented about PyTorch's Data Representation, The Vocabulary Class, The Vectorizer Class and The DataLoader Class under the hood of **Natural Language Processing with PyTorch**. I have continued working in Surname Classification Model Inferring Demographic Information which has applications from Product Recommendations to ensuring fair outcomes for users across different Demographics. Today, I have worked out the Implementation of Dataset Class, Vectorizer Class, Vocabulary Class and Multi Layer Perceptron or MLP Classifier Model. I have presented the Implementation of Vectorizer Class using PyTorch here in the Snapshot. I hope you will gain some insights from here and you will also spend some time working on the same. Excited about the days to come!!
-
 - [**Surname Classification with Demographics: PyTorch**](https://github.com/ThinamXx/SurnameClassification__PyTorch.git)
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2042.PNG)
