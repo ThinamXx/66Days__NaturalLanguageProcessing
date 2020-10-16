@@ -269,3 +269,11 @@
 - [**Surname Classification with Demographics: PyTorch**](https://github.com/ThinamXx/SurnameClassification__PyTorch.git)
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2042.PNG)
+
+**Day43 of 66DaysOfData!**
+- In my journey of Natural Language Processing, Today I have read and Implemented about MLP Classifier, The Training Routine Class using PyTorch's Implementation, The Training Loop, Evaluation, Inference and Inspection of the Model prepared using PyTorch under the hood of **Natural Language Processing with PyTorch**. I have continued working in Surname Classification Model Inferring Demographic Information which has applications from Product Recommendations to ensuring fair outcomes for users across different Demographics. Today, I have worked out the Implementation of MLP Classifier, The Training Routine Class, Inference and Inspection of the Model prepared using PyTorch. I have presented the simple Implementation of MLP Classifier Model along with the Snapshot of the Inference and Inspection of the Model Evaluation using PyTorch. Actually, It is the continuation of yesterday's Snapshot. I hope you will gain some insights and you will also spend some time working on the same. Excited about the days to come !!
+- [**Surname Classification with Demographics: PyTorch**](https://github.com/ThinamXx/SurnameClassification__PyTorch.git)
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2043a.PNG)
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2043c.PNG)
