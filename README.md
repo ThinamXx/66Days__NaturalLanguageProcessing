@@ -277,3 +277,8 @@
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2043a.PNG)
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2043c.PNG)
+
+**Day44 of 66DaysOfData!**
+- Logistic Regression: Logistic Regression is a Statistical Model that in its basic form uses a logistic function to model a binary dependent variable, although many more complex extensions exist. In Regression Analysis, Logistic Regression is estimating the parameters of a Logistic Model in a form of Binary Regression. In my journey of Natural Language Processing, Today I have started learning from **Natural Language Processing Specialization** on Coursera. I have just started learning the first course and I will spend couple of weeks in this Specialization. I have covered the topics such as Logistic Regression and Naive Bayes along with various Fundamental Preprocessing steps under the hood of **Natural Language Processing**. This Specialization is managed and organized by the team of Andrew Ng i.e deeplearning.ai so that I will gain more exposure to Mathematics behind every topics which has very high Importance. I have presented the Implementation of Naive Bayes Classifier along with Testing procedure here in the Snapshot. I hope you will also spend some time going through this Specialization and I am so much excited about the days to come !!
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2044.PNG)
