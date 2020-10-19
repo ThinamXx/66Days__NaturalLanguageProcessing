@@ -288,3 +288,8 @@
 - [**Natural Language Processing with Classification and Vector Spaces**](https://lnkd.in/dZW-UbD)
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2045.PNG)
+
+**Day46 of 66DaysOfData!**
+- Minimum Edit Distance: The Minimum Edit Distance between two strings is defined as the minimum number of Editing Operations like Insertion, Deletion and Substitution needed to transform one string into another. It's working principle is applicable in building the Auto Correction Model. In my journey of Natural Language Processing, Today I have started learning and Implementing NLP from the second course of **Natural Language Processing Specialization** on Coursera i.e **Natural Language Processing with Probabilistic Models**. I have covered the topics such as Autocorrect Models using Minimum Edit Distance Algorithm, POS Tagging, Markov's Models and The Viterbi Algorithm under the hood of Natural Language Processing. I will spend couple of weeks in this Specialization. I have presented the simple Implementation of Minimum Edit Distance Algorithm whose working principle is applicable in Auto Correction Model here in the Snapshot. I hope you will also spend some time learning about the topics mentioned above. I hope you will also spend some time in this Specialization. I am excited about the days to come!!
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2046.PNG)
