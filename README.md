@@ -309,3 +309,11 @@
 - [**Duplicate Questions Recognition: Trax**](https://github.com/ThinamXx/DuplicateQuestions__Recognition.git)
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2049.PNG)
+
+**Day50 of 66DaysOfData!**
+- Siamese Neural Network: Siamese Neural Network is an Artificial Neural Network which uses the same weight while working in tandem on two different input vectors to compute comparable output vectors. In my journey of Natural Language Processing, Today I have learned and Implemented about Data Generators or Iterators, Siamese Neural Networks, LSTMs and Triplet Loss under the hood of **Natural Language Processing**. I have continued working with **Quora Questions Answers Dataset** to build a Model using LSTM that can identify the Similar Questions or the Duplicate Questions which is useful when we have to work with several versions of the same Questions. I have presented the Implementation of Siamese Neural Network using LSTM Model along with the Implementation of Triplet Loss here in the Snapshots. I have also presented the Implementation of Training the Model using Data Generators and other dependencies. I have presented all the Implementations using Trax Framework here. I hope you will gain some insights from here and you will also continue working on the same. Excited about the days ahead!!
+- [**Duplicate Questions Recognition: Trax**](https://github.com/ThinamXx/DuplicateQuestions__Recognition.git)
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2050a.PNG)
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2050b.PNG)
