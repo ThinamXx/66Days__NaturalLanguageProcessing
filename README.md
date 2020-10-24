@@ -317,3 +317,11 @@
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2050a.PNG)
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2050b.PNG)
+
+**Day51 of 66DaysOfData!**
+- In my journey of Natural Language Processing, Today I have learned and Implemented about Siamese Neural Networks and LSTMs, Implementation of Trax in Siamese Neural Networks under the hood of **Natural Language Processing**. I have completed working with **Quora Questions Answers Dataset** to build a LSTM Model that can identify the Similar Questions or the Duplicate Questions which is useful when we have to work with several versions of the same Questions. I have build a Model using Trax which can identify the Duplicate Questions. **Neural Networks and Trax: Trax is good for Implementing new state of the Art Algorithms like Transformers, Reformers and BERT. It is actively maintained by Google Brain Team for Advanced Deep Learning tasks**. I have presented the Implementation of Siamese Neural Network using LSTM Model that can identify the Similar or Duplicate Questions here in the Snapshots. I have also presented the output of the Model here which fascinates me a lot. I hope you will gain some insights from here and you will also spend some time working on the same. Excited about the days ahead!!
+- [**Duplicate Questions Recognition: Trax**](https://github.com/ThinamXx/DuplicateQuestions__Recognition.git)
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2051.PNG)
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2051b.PNG)
