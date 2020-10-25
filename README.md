@@ -325,3 +325,10 @@
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2051.PNG)
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2051b.PNG)
+
+**Day52 of 66DaysOfData!**
+- In my journey of Natural Language Processing, Today I have learned about Sequence to Sequence Models, Alignment, Attention Models, BLEU or Bilingual Evaluation Understudy, ROUGE or Recall Oriented Understudy, Greedy Decoding, Random Sampling, Temperature Parameter, Beam Search Decoding, Minimum Bayes Risk or MBR and Teacher Forcing Algorithm in LSTM from the course **Natural Language Processing with Attention Models** which is the last course of **Natural Language Processing Specialization**. **Teacher Forcing: Teacher Forcing is the technique where the target word is passed as the next input to the Decoder. Training with Teacher Forcing converges faster**. I have presented the simple Implementation of Neural Machine Translation Model which uses Attention along with the Implementation of Preparing Attention Input using Encoder and Decoder Activations here in the Snapshots. I have presented this Implementation on the basis of this course for self understanding so I have not included all the dependencies here in the Snapshot. I hope you will also spend some time going through the topics mentioned above. Excited about the days ahead!!
+- [**Teacher Forcing in RNNs**](https://lnkd.in/dpw2FwC)
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2052.PNG)
+
