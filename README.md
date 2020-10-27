@@ -332,3 +332,7 @@
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2052.PNG)
 
+**Day53 of 66DaysOfData!**
+- Transformer and NLP: The Transformer is a Deep Learning Model which are designed to handle Sequential Data such as Translation and Summarization and allows much more parallelization than RNNs such as LSTM. In my journey of Natural Language Processing, Today I have learned about Transformers and it's Applications, Dot Product, Multi Head and Causal Attentions, The Transformer Decoder and Summarizer, State of Art Transformers such as GPT2 or Generative Pretraining for Transformer, BERT or Bidirectional Encoder Representations from Transformer, T5 or Text to Text Transfer Transformer and Multitask Training Strategy and GLUE Benchmark from the course **Natural Language Processing with Attention Models** which is the last course of **Natural Language Processing Specialization** on Coursera. I have presented the simple Implementation of Transformer Language Model using Trax here in the Snapshot. I have also presented the Implementation of PositionalEncoder, FeedForward and DecoderBlock which returns the list of Layers required for the Transformer Model here. I hope you will gain some insights and you will also spend some time learning about the Transformer Model. Excited about the days ahead!!
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2053.PNG)
