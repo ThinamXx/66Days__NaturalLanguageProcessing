@@ -342,3 +342,9 @@
 - [**Natural Language Processing Specialization Completion**](https://www.coursera.org/account/accomplishments/specialization/certificate/8LNP2U235SWZ)
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2054.PNG)
+
+**Day55 of 66DaysOfData!**
+- Transfer Learning: Transfer Learning is a process where a Model is first pretrained on a Data rich task before being fine tuned on a Downstream Task and Transfer Learning has emerged as a powerful technique in Natural Language Processing or NLP. The effectiveness of Transfer Learning has given rise to a Diversity of approaches, methodology, and practice. In my journey of Natural Language Processing, Today I have started reading the Papers of Transformers and Natural Language Processing which is named as **Exploring the Limits of Transfer Learning with a Unified Text to Text Transformer**. I have presented the Implementation of Encoder and Decoder Class which are the key components in any Dominant Sequence Models. I hope you will also spend some time reading about the Transformer from the Paper mentioned above. Excited about the days ahead!!
+- [**Exploring the Limits of Transfer Learning with a Unified Text to Text Transformer**](https://arxiv.org/abs/1910.10683)
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2055.PNG)
