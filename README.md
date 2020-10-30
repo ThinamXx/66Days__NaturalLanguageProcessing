@@ -348,3 +348,9 @@
 - [**Exploring the Limits of Transfer Learning with a Unified Text to Text Transformer**](https://arxiv.org/abs/1910.10683)
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2055.PNG)
+
+**Day56 of 66DaysOfData!**
+- In my journey of Natural Language Processing, Today I have read a Paper about Deep Learning and Text Classification which is named as **Deep Learning Based Text Classification: A Comprehensive Review**. I have read about various Text Classification Tasks such as Sentiment Analysis, News Categorization, Topic Analysis and Question Answering. I have also read about various Deep Learning Models for Text Classification such as Feed Forward Neural Networks, RNN Based Models, CNN Based Models, Capsule Neural Networks, Models with Attention, Transformers, Graph Neural Networks, Siamese Neural Networks and Hybrid Models from this Paper. I have presented the simple Implementation of Layer Normalization, Sublayer Connection, Encoder Layer and Feed Forward Layer using PyTorch here in the Snapshots. I hope you will also spend time reading about Deep Learning and Text Classification from the Paper mentioned above. I am excited about the days ahead!!
+- [**Deep Learning Based Text Classification: A Comprehensive Review**](https://arxiv.org/abs/2004.03705)
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2056.PNG)
