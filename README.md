@@ -354,3 +354,10 @@
 - [**Deep Learning Based Text Classification: A Comprehensive Review**](https://arxiv.org/abs/2004.03705)
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2056.PNG)
+
+**Day57 of 66DaysOfData!**
+- In my journey of Natural Language Processing, Today I have read a Paper about Deep Learning and Text Classification which is named as **Deep Learning Based Text Classification: A Comprehensive Review**. I have completed reading this Paper. I have read about Unsupervised Learning using Autoencoders, Adversarial Training, Reinforcement Learning and few Popular Datasets such as YELP and IMDB. I have also read about Popular Metrics for Text Classification such as Accuracy and Error Rate, Precision, Recall and F1 Score from this Paper. I have also read one of the most popular Articles named **The Illustrated Transformer** by Jay Alammar. It teaches about the Transformer from Scratch. I have read the topics such as Encoder, Decoder, Self Attention, Feed Forward and Multi Head Attention in this Article. I have presented the Implementation of Decoder Class, DecoderLayer with FeedForward and Subsequent Mask using PyTorch here in the Snapshots. I hope you will spend some time reading the Paper and Article mentioned above. Excited about the days ahead!!
+- [**Deep Learning Based Text Classification: A Comprehensive Review**](https://arxiv.org/abs/2004.03705)
+- [**The Illustrated Transformer**](http://jalammar.github.io/illustrated-transformer/)
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2057.PNG)
