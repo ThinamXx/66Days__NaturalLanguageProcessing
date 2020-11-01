@@ -361,3 +361,11 @@
 - [**The Illustrated Transformer**](http://jalammar.github.io/illustrated-transformer/)
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2057.PNG)
+
+**Day58 of 66DaysOfData!**
+- In my journey of Natural Language Processing, Today I have read some Articles about Deep Learning and Natural Language Processing. I have read an Article named **NLP's ImageNet Moment** which is written by Sebastian Ruder. Here, I have read about the recent advances in NLP such as ULMFiT, ELMO, OpenAI Transformer and the ImageNet for Language. Similarly, I have read another Article named as **The Illustrated BERT, ELMO and Co.** which is written by Jay Alammar. Here, I have read about BERT Model Architecture, Word Embeddings, Transfer Learning and the topics mentioned above. I have also read another Article named **Generalized Language Models** which is written by Lilian Weng. Here, I am reading about Language Models and I am still reading this Article. I have presented the Implementation of Attention and Multi Head Attention Class using PyTorch here in the Snapshot. Actually, It is the continuation of yesterday's Snapshot. I hope you will also spend some time reading the Articles mentioned above. Excited about the days ahead!!
+- [**NLP's ImageNet Moment**](https://ruder.io/nlp-imagenet/)
+- [**The Illustrated BERT, ELMO and Co.**](http://jalammar.github.io/illustrated-bert/)
+- [**Generalized Language Models**](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html)
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2058.PNG)
