@@ -369,3 +369,10 @@
 - [**Generalized Language Models**](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html)
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2058.PNG)
+
+**Day59 of 66DaysOfData!**
+- In my journey of Natural Language Processing, Today I have read Papers about Skip Gram and NLP. I have read a Paper which is named as **Efficient Estimation of Word Representations in Vector Space**. Here, I have read about Model Architectures, Feed Forward Neural Net Language Model, Recurrent Neural Net Language Model, Log Linear Models, CBOW Models, Continuous Skip Gram Model and various other related topics. I have also read the Paper which is named as **Distributed Representations of Words and Phrases and their Compositionality**. Here, I have read about Skip Gram Model, Hierarchical Softmax, Negative Sampling, Subsampling and Additive Compositionality. I have presented the Implementation of Positionwise Feed Forward Class, Embedding, Positional Encoding and Feed Forward using PyTorch here in the Snapshot. Actually, It is the continuation of yesterday's Snapshot. I hope you will also spend some time reading the Topics and Papers mentioned above about Skip Gram Model. Excited about the days ahead!!
+- [**Efficient Estimation of Word Representations in Vector Space**](https://arxiv.org/abs/1301.3781)
+- [**Distributed Representations of Words and Phrases and their Compositionality**](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2059.PNG)
