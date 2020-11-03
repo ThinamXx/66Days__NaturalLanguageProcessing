@@ -376,3 +376,10 @@
 - [**Distributed Representations of Words and Phrases and their Compositionality**](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2059.PNG)
+
+**Day60 of 66DaysOfData!**
+- In my journey of Natural Language Processing, Today I have read Papers about GloVe and Recurrent Neural Network Language Model. I have read a Paper which is named as **GloVe : Global Vectors for Word Representation**. Here, I have read about Matrix Factorization Methods, The GloVe Model and Complexity of the Model, Evaluation Methods, Word Analogies, Model Analysis and various other related topics. Similarly, I have read another Paper which is named as **A Simple Way to Initialize Recurrent Networks of Rectified Linear Units**. Here, I have read about Language Modeling and Initialization, Speech Recognition and various other related topics. I have presented the Implementation of Transformer Model, Batches and Masking using PyTorch here in the Snapshot. Actually, It is the continuation of previous Snapshots. I hope you will also spend some time reading about the Topics and Papers mentioned above. I am excited about the days ahead!!
+- [**GloVe : Global Vectors for Word Representation**](https://nlp.stanford.edu/pubs/glove.pdf)
+- [**A Simple Way to Initialize Recurrent Networks of Rectified Linear Units**](https://arxiv.org/pdf/1504.00941.pdf)
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2060.PNG)
