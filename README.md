@@ -383,3 +383,10 @@
 - [**A Simple Way to Initialize Recurrent Networks of Rectified Linear Units**](https://arxiv.org/pdf/1504.00941.pdf)
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2060.PNG)
+
+**Day61 of 66DaysOfData!**
+- In my journey of Natural Language Processing, Today I have read the Paper about Neural Machine Translation with Attention and Dynamic Memory Network. I have read the Paper which is named as **Neural Machine Translation By Jointly Learning To Align and Translate**. Here, I have read the Topics related to Neural Machine Translation such as RNN Encoder and Decoder, Translation and to Align and Qualitative and Quantitative Analysis and more related to the same. I have also started reading another Paper which is named as **Dynamic Memory Networks for Natural Language Processing**. I have just started reading this Paper and I will complete it soon. I have presented the Implementation of Training the Loop of Transformer Model along with the Implementation of Batching using PyTorch here in the Snapshots. Actually, It is the continuation of previous Snapshots. I hope you will also spend some time reading about the Topics and Papers mentioned above. I am excited about the days ahead!!
+- [**Neural Machine Translation By Jointly Learning To Align and Translate**](https://arxiv.org/pdf/1409.0473.pdf)
+- [**Dynamic Memory Networks for Natural Language Processing**](https://arxiv.org/abs/1506.07285)
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2061.PNG)
