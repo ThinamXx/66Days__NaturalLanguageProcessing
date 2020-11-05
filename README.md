@@ -390,3 +390,10 @@
 - [**Dynamic Memory Networks for Natural Language Processing**](https://arxiv.org/abs/1506.07285)
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2061.PNG)
+
+**Day62 of 66DaysOfData!**
+- In my journey of Natural Language Processing, Today I have read the Papers about Dynamic Memory Networks and Recursive Neural Networks. I have read the Paper which is named as **Dynamic Memory Networks for Natural Language Processing**. Here, I have read about the Dynamic Memory Networks and Episodic Memory Module, Attention and Memory Update Mechanism and various Topics related to the same. I have also read the Paper which is named as **Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank**. Here, I have read about Semantic Vector Space and Compositionality in Vector Space, Recursive Neural Tensor Networks, Backpropagation and various Topics related to the same. I have presented the Implementation of Optimizer along with Learning Rates using PyTorch here in the Snapshots. Actually, It is the continuation of previous Snapshots. I hope you will also spend some time reading about the Topics and Papers mentioned above. Excited about the days ahead!!
+- [**Dynamic Memory Networks for Natural Language Processing**](https://arxiv.org/abs/1506.07285)
+- [**Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank**](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf)
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2062.PNG)
