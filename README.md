@@ -397,3 +397,10 @@
 - [**Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank**](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf)
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2062.PNG)
+
+**Day63 of 66DaysOfData!**
+- In my journey of Natural Language Processing, Today I have read the Papers about Stanza: NLP Toolkit and Transfer Learning to study Linguistic Structure. I have read the Paper which is named as **Stanza: A Python Natural Language Processing Toolkit for Many Human Languages**. Here, I have read about Neural Multilingual NLP Pipeline, Dependency Parsing and Lemmatization, NER and various Topics related to the same. I have also read the Paper which is named as **Learning Music Helps you Read: Using Transfer to Study Linguistic Structure in Language Models**. Here, I have read about LSTM Architecture and Training, Random Baselines, Recursive Structure, Non Linguistic Structure and various Topics related to the same. I have presented the Implementation of Label Smoothing and Feed Forward using PyTorch here in the Snapshots. Actually, It is the continuation of previous Snapshots. I hope you will also spend some time reading about the Topics and Papers mentioned above. Excited about the days ahead!!
+- [**Stanza: A Python Natural Language Processing Toolkit for Many Human Languages**](https://nlp.stanford.edu/pubs/qi2020stanza.pdf)
+- [**Learning Music Helps you Read: Using Transfer to Study Linguistic Structure in Language Models**](https://nlp.stanford.edu/pubs/papadimitriou2020music.pdf)
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2063.PNG)
