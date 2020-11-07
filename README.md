@@ -404,3 +404,10 @@
 - [**Learning Music Helps you Read: Using Transfer to Study Linguistic Structure in Language Models**](https://nlp.stanford.edu/pubs/papadimitriou2020music.pdf)
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2063.PNG)
+
+**Day64 of 66DaysOfData!**
+- In my journey of Natural Language Processing, Today I have read the Papers about Long Short Term Memory and Stanford CoreNLP Toolkit. I have read the Paper which is named as **Improved Semantic Representations From Tree Structured Long Short Term Memory Networks**. Here, I have read about Bidirectional LSTM and Multilayer LSTM, Tree Structured LSTM, Semantic Relatedness and Sentiment Classification and various Topics related to the same. I have read another Paper which is named as **The Stanford CoreNLP Natural Language Processing Toolkit**. Here, I have read about Model Design and Development, Elementary Usage, Annotators, Tokenization and Lemmatization and various Topics related to the same. I have presented the Implementation of Data Generator, Loss Computation and Greedy Decoding in Transformer Model using PyTorch here in the Snapshot. Actually, It is the continuation of previous Snapshots. I hope you will also spend some time reading about the Topics and Papers mentioned above. Excited about the days ahead!!
+- [**Improved Semantic Representations From Tree Structured Long Short Term Memory Networks**](https://nlp.stanford.edu/pubs/tai-socher-manning-acl2015.pdf)
+- [**The Stanford CoreNLP Natural Language Processing Toolkit**](https://nlp.stanford.edu/pubs/StanfordCoreNlp2014.pdf)
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2064.PNG)
