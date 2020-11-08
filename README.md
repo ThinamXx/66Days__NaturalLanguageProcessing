@@ -411,3 +411,10 @@
 - [**The Stanford CoreNLP Natural Language Processing Toolkit**](https://nlp.stanford.edu/pubs/StanfordCoreNlp2014.pdf)
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2064.PNG)
+
+**Day65 of 66DaysOfData!**
+- In my journey of Natural Language Processing, Today I have read the Papers about Zero Shot Learning and Syntax Sensitive Dependencies in LSTM. I have read the Paper which is named as **Zero Shot Learning Through Cross Modal Transfer**. Here, I have read about Zero Shot and One Shot Learning, Word and Image Representations, Zero Shot Learning Models, Novelty Detection and various Topics related to the same. I have also read another Paper which is named as **Assessing the Ability of LSTMs to Learn Syntax Sensitive Dependencies**. Here, I have read about LSTM Model and Baselines, Number Prediction, Relative Clauses, Language Modeling and various Topics related to the same. I have presented the Implementation of Greedy Decoding and Iterators using PyTorch here in the Snapshot. Actually, It is the continuation of previous Snapshots. I hope you will also spend some time reading about the Topics and Papers mentioned above. Excited about the days ahead!!
+- [**Zero Shot Learning Through Cross Modal Transfer**](https://nlp.stanford.edu/pubs/SocherGanjooManningNg_NIPS2013.pdf)
+- [**Assessing the Ability of LSTMs to Learn Syntax Sensitive Dependencies**](https://arxiv.org/pdf/1611.01368.pdf)
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2065.PNG)
