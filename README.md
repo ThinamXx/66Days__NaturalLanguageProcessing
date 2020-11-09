@@ -418,3 +418,9 @@
 - [**Assessing the Ability of LSTMs to Learn Syntax Sensitive Dependencies**](https://arxiv.org/pdf/1611.01368.pdf)
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2065.PNG)
+
+**Day66 of 66DaysOfData!**
+- Today I have read the Paper which is named as **Finding Universal Grammatical Relations in Multilingual BERT**. Here, I have read about BERT, Cross Lingual Probing, Universal Grammatical Relations, Finer Grained Analysis, Determiners and various Topics related to the same. I have also spent some time going through the Documentation of my Journey in GitHub. Today, I have completed this Journey and I am so grateful and thankful to meet lots of amazing persons along the way. Actually, **Ken Jee** is one of the amazing persons who started this Journey. He has always been supportive and a great example to the Data Science Aspirants and I am so thankful to him. I have been Learning and Implementing Natural Language Processing for couple of months now. I will continue my Learning with new Journey and new Topics. I hope you have also learned something interesting in Natural Language Processing until this day. Personally, I am so thankful to you, the one who has come along this way and supported me since the start of the Journey. We will start to learn new Topics with new hope and energy. Thank you!!
+- [**Finding Universal Grammatical Relations in Multilingual BERT**](https://nlp.stanford.edu/pubs/chi2020finding.pdf)
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2066.PNG)
