@@ -12,6 +12,7 @@
   - [**Deep Learning Based Text Classification: A Comprehensive Review**](https://arxiv.org/abs/2004.03705)
   - [**The Illustrated Transformer**](http://jalammar.github.io/illustrated-transformer/)
   - [**Generalized Language Models**](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html)
+  - and more Research Papers.
 
 **Projects and Notebooks:**
 - I have listed the Projects and the Notebooks which I have completed along the Journey here:
@@ -25,7 +26,6 @@
   - [**Amazon Reviews Analysis**](https://github.com/ThinamXx/AmazonReviews__Analysis.git)
   - [**Surname Classification with Demographics**](https://github.com/ThinamXx/SurnameClassification__PyTorch.git)
   - [**Duplicate Questions Recognition using Trax**](https://github.com/ThinamXx/DuplicateQuestions__Recognition.git)
-  - 
 
 **Day1 of 66DaysOfData!**
 - Natural Language Processing is a field of Linguistics, Computer Science, and Artificial Intelligence concerned with the interactions between Computers and Human language, in particular how to program computers to process and analyze large amounts of Natural Language Data. Today, I am learning NLP from very first beginning. Here, I have provided the short description of various Libraries, Dependencies and Modules required for Natural Language Processing. I have also performed the Processing of Text such as Removing the Retweet Text, Removing the Hyperlinks and Removing Hashtags. Excited about the days ahead!!
