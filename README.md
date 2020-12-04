@@ -12,7 +12,7 @@
   - [**Deep Learning Based Text Classification: A Comprehensive Review**](https://arxiv.org/abs/2004.03705)
   - [**The Illustrated Transformer**](http://jalammar.github.io/illustrated-transformer/)
   - [**Generalized Language Models**](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html)
-  - and more Research Papers.
+  - and more **Research Papers**.
 
 **Projects and Notebooks:**
 - I have listed the Projects and the Notebooks which I have completed along the Journey here:
