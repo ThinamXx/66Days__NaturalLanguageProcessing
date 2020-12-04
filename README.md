@@ -1,5 +1,32 @@
 # **Journey of 66DaysofData in Natural Language Processing**
 
+**Resources and Books:**
+- I have listed the Books and Resources which are used in my Journey here:
+  - [**Natural Language Processing with Python**](https://www.nltk.org/book/)
+  - [**Natural Language Processing in Action**](https://www.manning.com/books/natural-language-processing-in-action)
+  - **Natural Language Processing with PyTorch**
+  - **Natural Language Processing Specialization: Coursera**
+  - [**Teacher Forcing in Recurrent Neural Networks**](https://towardsdatascience.com/what-is-teacher-forcing-3da6217fed1c)
+  - [**Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer**](https://arxiv.org/abs/1910.10683)
+  - [**Deep Learning Based Text Classification: A Comprehensive Review**](https://arxiv.org/abs/2004.03705)
+  - [**Deep Learning Based Text Classification: A Comprehensive Review**](https://arxiv.org/abs/2004.03705)
+  - [**The Illustrated Transformer**](http://jalammar.github.io/illustrated-transformer/)
+  - [**Generalized Language Models**](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html)
+
+**Projects and Notebooks:**
+- I have listed the Projects and the Notebooks which I have completed along the Journey here:
+  - [**Topic Modeling with Singular Value Decomposition and Non negative Matrix Formation**](https://github.com/ThinamXx/TopicModeling__NLP/blob/master/Topic%20Modeling%20with%20SVD%20and%20NMF.ipynb)
+  - [**Sentiment Classification of Internet Movie Reviews Database Reviews**](https://github.com/ThinamXx/InternetMovieDatabase__NLP/blob/master/IMDB.ipynb)
+  - [**Semantic Analysis with LDA, LSA and LDIA**](https://github.com/ThinamXx/SemanticAnalysis__LDA..LDIA.git)
+  - [**Sentiment Analysis of Large Movie Dataset using RNN, CNN and LSTM**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis.git)
+  - [**Text Generation using Long Short Term Memory or LSTM**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/Generating%20Text%20with%20LSTM.ipynb)
+  - [**Chatbot with Sequence to Sequence Networks**](https://github.com/ThinamXx/Chatbot__Sequence2Sequence.git)
+  - [**YELP Reviews Sentiment Analysis**](https://github.com/ThinamXx/YelpReviews__Analysis.git)
+  - [**Amazon Reviews Analysis**](https://github.com/ThinamXx/AmazonReviews__Analysis.git)
+  - [**Surname Classification with Demographics**](https://github.com/ThinamXx/SurnameClassification__PyTorch.git)
+  - [**Duplicate Questions Recognition using Trax**](https://github.com/ThinamXx/DuplicateQuestions__Recognition.git)
+  - 
+
 **Day1 of 66DaysOfData!**
 - Natural Language Processing is a field of Linguistics, Computer Science, and Artificial Intelligence concerned with the interactions between Computers and Human language, in particular how to program computers to process and analyze large amounts of Natural Language Data. Today, I am learning NLP from very first beginning. Here, I have provided the short description of various Libraries, Dependencies and Modules required for Natural Language Processing. I have also performed the Processing of Text such as Removing the Retweet Text, Removing the Hyperlinks and Removing Hashtags. Excited about the days ahead!!
 
