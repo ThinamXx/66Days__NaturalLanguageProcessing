@@ -9,7 +9,6 @@
   - [**Teacher Forcing in Recurrent Neural Networks**](https://towardsdatascience.com/what-is-teacher-forcing-3da6217fed1c)
   - [**Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer**](https://arxiv.org/abs/1910.10683)
   - [**Deep Learning Based Text Classification: A Comprehensive Review**](https://arxiv.org/abs/2004.03705)
-  - [**Deep Learning Based Text Classification: A Comprehensive Review**](https://arxiv.org/abs/2004.03705)
   - [**The Illustrated Transformer**](http://jalammar.github.io/illustrated-transformer/)
   - [**Generalized Language Models**](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html)
   - and more **Research Papers**.
