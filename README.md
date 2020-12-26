@@ -3,10 +3,6 @@
 
 **Resources and Books:**
 - I have listed the Books and Resources which are used in my Journey here:
-  - [**Natural Language Processing with Python**](https://www.nltk.org/book/)
-  - [**Natural Language Processing in Action**](https://www.manning.com/books/natural-language-processing-in-action)
-  - **Natural Language Processing with PyTorch**
-  - **Natural Language Processing Specialization: Coursera**
   - [**Teacher Forcing in Recurrent Neural Networks**](https://towardsdatascience.com/what-is-teacher-forcing-3da6217fed1c)
   - [**Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer**](https://arxiv.org/abs/1910.10683)
   - [**Deep Learning Based Text Classification: A Comprehensive Review**](https://arxiv.org/abs/2004.03705)
@@ -14,9 +10,13 @@
   - [**Generalized Language Models**](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html)
   - and more **Research Papers**.
 
-| Books |
+| **Books** |
 | ----- |
-| - [**Natural Language Processing with Python**](https://www.nltk.org/book/) |
+| 1.[**Natural Language Processing with Python**](https://www.nltk.org/book/) |
+| 2.[**Natural Language Processing in Action**](https://www.manning.com/books/natural-language-processing-in-action) |
+| 3.**Natural Language Processing with PyTorch** |
+| 4.[**Natural Language Processing Specialization**](https://www.coursera.org/specializations/natural-language-processing) |
+
 
 
 **Projects and Notebooks:**
