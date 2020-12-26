@@ -1,4 +1,5 @@
 # **Journey of 66DaysofData in Natural Language Processing**
+![NLP](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/NLP.jpg)
 
 **Resources and Books:**
 - I have listed the Books and Resources which are used in my Journey here:
