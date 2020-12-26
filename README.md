@@ -10,7 +10,7 @@
   - [**Generalized Language Models**](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html)
   - and more **Research Papers**.
 
-| **Books** |
+| Books |
 | ----- |
 | 1.[**Natural Language Processing with Python**](https://www.nltk.org/book/) |
 | 2.[**Natural Language Processing in Action**](https://www.manning.com/books/natural-language-processing-in-action) |
