@@ -1,23 +1,37 @@
 # **Journey of 66DaysofData in Natural Language Processing**
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/NLP.jpg)
 
-**Resources and Books:**
-- I have listed the Books and Resources which are used in my Journey here:
-  - [**Teacher Forcing in Recurrent Neural Networks**](https://towardsdatascience.com/what-is-teacher-forcing-3da6217fed1c)
-  - [**Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer**](https://arxiv.org/abs/1910.10683)
-  - [**Deep Learning Based Text Classification: A Comprehensive Review**](https://arxiv.org/abs/2004.03705)
-  - [**The Illustrated Transformer**](http://jalammar.github.io/illustrated-transformer/)
-  - [**Generalized Language Models**](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html)
-  - and more **Research Papers**.
-
 | Books |
 | ----- |
-| 1.[**Natural Language Processing with Python**](https://www.nltk.org/book/) |
-| 2.[**Natural Language Processing in Action**](https://www.manning.com/books/natural-language-processing-in-action) |
-| 3.**Natural Language Processing with PyTorch** |
-| 4.[**Natural Language Processing Specialization**](https://www.coursera.org/specializations/natural-language-processing) |
+| 1. [**Natural Language Processing with Python**](https://www.nltk.org/book/) |
+| 2. [**Natural Language Processing in Action**](https://www.manning.com/books/natural-language-processing-in-action) |
+| 3. **Natural Language Processing with PyTorch** |
+| 4. [**Natural Language Processing Specialization**](https://www.coursera.org/specializations/natural-language-processing) |
 
-
+| Research Papers |
+| --------------- |
+| 1. [**Teacher Forcing in Recurrent Neural Networks**](https://towardsdatascience.com/what-is-teacher-forcing-3da6217fed1c) |
+| 2. [**Exploring the Limits of Transfer Learning with a Unified Text to Text Transformer**](https://arxiv.org/abs/1910.10683) |
+| 3. [**Deep Learning Based Text Classification: A Comprehensive Review**](https://arxiv.org/abs/2004.03705) |
+| 4. [**The Illustrated Transformer**](http://jalammar.github.io/illustrated-transformer/) |
+| 5. [**NLP's ImageNet Moment**](https://ruder.io/nlp-imagenet/) |
+| 6. [**The Illustrated BERT, ELMO and Co.**](http://jalammar.github.io/illustrated-bert/) |
+| 7. [**Generalized Language Models**](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html) |
+| 8. [**Efficient Estimation of Word Representations in Vector Space**](https://arxiv.org/abs/1301.3781) |
+| 9. [**Distributed Representations of Words and Phrases and their Compositionality**](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) |
+| 10. [**GloVe : Global Vectors for Word Representation**](https://nlp.stanford.edu/pubs/glove.pdf) |
+| 11. [**A Simple Way to Initialize Recurrent Networks of Rectified Linear Units**](https://arxiv.org/pdf/1504.00941.pdf) |
+| 12. [**Neural Machine Translation By Jointly Learning To Align and Translate**](https://arxiv.org/pdf/1409.0473.pdf) |
+| 13. [**Dynamic Memory Networks for Natural Language Processing**](https://arxiv.org/abs/1506.07285) |
+| 14. [**Dynamic Memory Networks for Natural Language Processing**](https://arxiv.org/abs/1506.07285) |
+| 15. [**Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank**](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf) |
+| 16. [**Stanza: A Python Natural Language Processing Toolkit for Many Human Languages**](https://nlp.stanford.edu/pubs/qi2020stanza.pdf) |
+| 17. [**Learning Music Helps you Read: Using Transfer to Study Linguistic Structure in Language Models**](https://nlp.stanford.edu/pubs/papadimitriou2020music.pdf) |
+| 18. [**Improved Semantic Representations From Tree Structured Long Short Term Memory Networks**](https://nlp.stanford.edu/pubs/tai-socher-manning-acl2015.pdf) |
+| 19. [**The Stanford CoreNLP Natural Language Processing Toolkit**](https://nlp.stanford.edu/pubs/StanfordCoreNlp2014.pdf) |
+| 20. [**Zero Shot Learning Through Cross Modal Transfer**](https://nlp.stanford.edu/pubs/SocherGanjooManningNg_NIPS2013.pdf) |
+| 21. [**Assessing the Ability of LSTMs to Learn Syntax Sensitive Dependencies**](https://arxiv.org/pdf/1611.01368.pdf) |
+| 22. [**Finding Universal Grammatical Relations in Multilingual BERT**](https://nlp.stanford.edu/pubs/chi2020finding.pdf) |
 
 **Projects and Notebooks:**
 - I have listed the Projects and the Notebooks which I have completed along the Journey here:
