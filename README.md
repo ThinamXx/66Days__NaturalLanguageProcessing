@@ -14,6 +14,11 @@
   - [**Generalized Language Models**](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html)
   - and more **Research Papers**.
 
+| Books |
+| ----- |
+| - [**Natural Language Processing with Python**](https://www.nltk.org/book/) |
+
+
 **Projects and Notebooks:**
 - I have listed the Projects and the Notebooks which I have completed along the Journey here:
   - [**Topic Modeling with Singular Value Decomposition and Non negative Matrix Formation**](https://github.com/ThinamXx/TopicModeling__NLP/blob/master/Topic%20Modeling%20with%20SVD%20and%20NMF.ipynb)
