@@ -44,10 +44,10 @@
 | 7. [**YELP Reviews Sentiment Analysis**](https://github.com/ThinamXx/YelpReviews__Analysis.git) |
 | 8. [**Amazon Reviews Analysis**](https://github.com/ThinamXx/AmazonReviews__Analysis.git) |
 | 9. [**Surname Classification with Demographics**](https://github.com/ThinamXx/SurnameClassification__PyTorch.git) |
-| [**Duplicate Questions Recognition using Trax**](https://github.com/ThinamXx/DuplicateQuestions__Recognition.git) |
+| 10. [**Duplicate Questions Recognition using Trax**](https://github.com/ThinamXx/DuplicateQuestions__Recognition.git) |
 
 **Day1 of 66DaysOfData!**
-- **Natural Language Processing: ** Natural Language Processing is a field of Linguistics, Computer Science, and Artificial Intelligence concerned with the interactions between Computers and Human language, in particular how to program computers to process and analyze large amounts of Natural Language Data. Today I am learning Natural Language Processing from very begining. I have read and Implemented the Fundamentals of Natural Language Processing. Here, I have provided the short description of various Libraries, Dependencies and Modules required for Natural Language Processing. I have also presented the Processing of Text such as Removing the Retweet Text, Removing the Hyperlinks and Removing Hashtags. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics mentioned above. Excited about the days ahead !!
+- **Natural Language Processing:** Natural Language Processing is a field of Linguistics, Computer Science, and Artificial Intelligence concerned with the interactions between Computers and Human language, in particular how to program computers to process and analyze large amounts of Natural Language Data. Today I am learning Natural Language Processing from very begining. I have read and Implemented the Fundamentals of Natural Language Processing. Here, I have provided the short description of various Libraries, Dependencies and Modules required for Natural Language Processing. I have also presented the Processing of Text such as Removing the Retweet Text, Removing the Hyperlinks and Removing Hashtags. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics mentioned above. Excited about the days ahead !!
 - Topics: 
   - **Fundamentals of Natural Language Processing**
 
