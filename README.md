@@ -10,7 +10,6 @@
 | 4. [**Natural Language Processing Specialization**](https://www.coursera.org/specializations/natural-language-processing) |
 
 
-
 | Research Papers |
 | --------------- |
 | 1. [**Teacher Forcing in Recurrent Neural Networks**](https://towardsdatascience.com/what-is-teacher-forcing-3da6217fed1c) |
@@ -35,7 +34,6 @@
 | 20. [**Zero Shot Learning Through Cross Modal Transfer**](https://nlp.stanford.edu/pubs/SocherGanjooManningNg_NIPS2013.pdf) |
 | 21. [**Assessing the Ability of LSTMs to Learn Syntax Sensitive Dependencies**](https://arxiv.org/pdf/1611.01368.pdf) |
 | 22. [**Finding Universal Grammatical Relations in Multilingual BERT**](https://nlp.stanford.edu/pubs/chi2020finding.pdf) |
-
 
 
 | Projects and Notebooks |
