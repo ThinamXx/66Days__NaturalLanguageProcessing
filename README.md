@@ -33,59 +33,70 @@
 | 21. [**Assessing the Ability of LSTMs to Learn Syntax Sensitive Dependencies**](https://arxiv.org/pdf/1611.01368.pdf) |
 | 22. [**Finding Universal Grammatical Relations in Multilingual BERT**](https://nlp.stanford.edu/pubs/chi2020finding.pdf) |
 
-**Projects and Notebooks:**
-- I have listed the Projects and the Notebooks which I have completed along the Journey here:
-  - [**Topic Modeling with Singular Value Decomposition and Non negative Matrix Formation**](https://github.com/ThinamXx/TopicModeling__NLP/blob/master/Topic%20Modeling%20with%20SVD%20and%20NMF.ipynb)
-  - [**Sentiment Classification of Internet Movie Reviews Database Reviews**](https://github.com/ThinamXx/InternetMovieDatabase__NLP/blob/master/IMDB.ipynb)
-  - [**Semantic Analysis with LDA, LSA and LDIA**](https://github.com/ThinamXx/SemanticAnalysis__LDA..LDIA.git)
-  - [**Sentiment Analysis of Large Movie Dataset using RNN, CNN and LSTM**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis.git)
-  - [**Text Generation using Long Short Term Memory or LSTM**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/Generating%20Text%20with%20LSTM.ipynb)
-  - [**Chatbot with Sequence to Sequence Networks**](https://github.com/ThinamXx/Chatbot__Sequence2Sequence.git)
-  - [**YELP Reviews Sentiment Analysis**](https://github.com/ThinamXx/YelpReviews__Analysis.git)
-  - [**Amazon Reviews Analysis**](https://github.com/ThinamXx/AmazonReviews__Analysis.git)
-  - [**Surname Classification with Demographics**](https://github.com/ThinamXx/SurnameClassification__PyTorch.git)
-  - [**Duplicate Questions Recognition using Trax**](https://github.com/ThinamXx/DuplicateQuestions__Recognition.git)
+| Projects and Notebooks |
+| ---------------------- |
+| 1. [**Topic Modeling with Singular Value Decomposition and Non negative Matrix Formation**](https://github.com/ThinamXx/TopicModeling__NLP/blob/master/Topic%20Modeling%20with%20SVD%20and%20NMF.ipynb) |
+| 2. [**Sentiment Classification of Internet Movie Reviews Database Reviews**](https://github.com/ThinamXx/InternetMovieDatabase__NLP/blob/master/IMDB.ipynb) |
+| 3. [**Semantic Analysis with LDA, LSA and LDIA**](https://github.com/ThinamXx/SemanticAnalysis__LDA..LDIA.git) |
+| 4. [**Sentiment Analysis of Large Movie Dataset using RNN, CNN and LSTM**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis.git) |
+| 5. [**Text Generation using Long Short Term Memory or LSTM**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/Generating%20Text%20with%20LSTM.ipynb) |
+| 6. [**Chatbot with Sequence to Sequence Networks**](https://github.com/ThinamXx/Chatbot__Sequence2Sequence.git) |
+| 7. [**YELP Reviews Sentiment Analysis**](https://github.com/ThinamXx/YelpReviews__Analysis.git) |
+| 8. [**Amazon Reviews Analysis**](https://github.com/ThinamXx/AmazonReviews__Analysis.git) |
+| 9. [**Surname Classification with Demographics**](https://github.com/ThinamXx/SurnameClassification__PyTorch.git) |
+| [**Duplicate Questions Recognition using Trax**](https://github.com/ThinamXx/DuplicateQuestions__Recognition.git) |
 
 **Day1 of 66DaysOfData!**
-- Natural Language Processing is a field of Linguistics, Computer Science, and Artificial Intelligence concerned with the interactions between Computers and Human language, in particular how to program computers to process and analyze large amounts of Natural Language Data. Today, I am learning NLP from very first beginning. Here, I have provided the short description of various Libraries, Dependencies and Modules required for Natural Language Processing. I have also performed the Processing of Text such as Removing the Retweet Text, Removing the Hyperlinks and Removing Hashtags. Excited about the days ahead!!
+- **Natural Language Processing: ** Natural Language Processing is a field of Linguistics, Computer Science, and Artificial Intelligence concerned with the interactions between Computers and Human language, in particular how to program computers to process and analyze large amounts of Natural Language Data. Today I am learning Natural Language Processing from very begining. I have read and Implemented the Fundamentals of Natural Language Processing. Here, I have provided the short description of various Libraries, Dependencies and Modules required for Natural Language Processing. I have also presented the Processing of Text such as Removing the Retweet Text, Removing the Hyperlinks and Removing Hashtags. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics mentioned above. Excited about the days ahead !!
+- Topics: 
+  - **Fundamentals of Natural Language Processing**
 
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%201.PNG)
 
 **Day2 of 66DaysOfData!**
-- In Natural Language Processing, String Tokenization is a process where the string is split into individual words or individual parts without blanks and tabs. In the same step, the words in the string is converted into lower case. The Tokenize module from NLTK(Naural Language Toolkit) makes very easy to carry out this process. In my journey of Natural Language Processing, Today I learned about String Tokenization, Stop word and Punctuation in NLP. I have implemented TweetTokenizer and performed the process to remove stopwords and punctuation from the tokenized tweets. Excited about the days ahead!!
+- **String Tokenization:** In Natural Language Processing, String Tokenization is a process where the string is splitted into Individual words or Individual parts without blanks and tabs. In the same step, the words in the String is converted into lower case. The Tokenize Module from NLTK or Naural Language Toolkit makes very easy to carry out this process. In my Journey of Natural Language Processing, Today I have learned about String Tokenization, Stop word and Punctuation in Natural Language Processing. I have implemented TweetTokenizer and presented the process to remove Stopwords and Punctuation from the Tokenized Tweets here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics mentioned above. Excited about the days ahead!!
+- Topics: 
+  - **Fundamentals of Natural Language Processing**
 
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%202.PNG)
 
 **Day3 of 66DaysOfData!**
-- Stemming in Natural Language Processing: Stemming is a process of converting a word to its most general form or stem. It's basically the process of removing the suffix from a word and reduce it to its root word. It helps in reducing the size of vocabulary. In my journey of Natural Language Processing, Today I learned about Stemming in NLP which is one of the most important steps while working with text. I have presented the implementation of Porter Stemmer, Snowball Stemmer and Lancaster Stemmer. Excited for coming days!!
-  - Porter Stemmer is one of the most common and gentle stemmer which is very fast but not very precise.
-  - Snowball Stemmer, whose actual name is English Stemmer is more precise over large data-sets.
-  - Lancaster Stemmer is very aggressive algorithm. It will hugely trim down the working data which itself has pros and cons.
+- **Stemming in Natural Language Processing**: Stemming is a process of converting a word to its most General form or Stem. It's basically the process of removing the suffix from a word and reduce it to it's root word. It helps in reducing the size of Vocabulary. In my Journey of Natural Language Processing, Today I learned about Stemming in Natural Language Processing which is one of the most important steps while working with Text. I have presented the Implementation of Porter Stemmer, Snowball Stemmer and Lancaster Stemmer here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics mentioned above. Excited for coming days!!
+  - **Porter Stemmer:** It is one of the most common and gentle stemmer which is very fast but not very precise.
+  - **Snowball Stemmer:** It's actual name is English Stemmer is more precise over large Dataset.
+  - **Lancaster Stemmer** It is very aggressive algorithm. It will hugely trim down the working data which itself has pros and cons.
+- Topics: 
+  - **Fundamentals of Natural Language Processing**
   
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%203.PNG)
   
 **Day4 of 66DaysOfData!**
-- Lemmatization in Natural Language Processing: Lemmatization is the process of grouping together the inflected forms of words so that they can analysed as a single item, identified by the word's lemma or a dictionary form. It is the process where individual tokens from a sentence or words are reduced to their base form. Lemmatization is much more informative than simple stemming. Lemmatization looks at the surrounding text to determine a given words's part of speech where it doesn't categorize the phrases. In my journey of Natural Language Processing, Today I learned about Lemmatization and it's simple implementation using Spacy as well NLTK. I have covered the fundamentals of NLP such as Tokenization, Stemming and Lemmatization. Excited for the days ahead!!
+- **Lemmatization in Natural Language Processing**: Lemmatization is the process of grouping together the inflected forms of words so that they can analysed as a single item, identified by the word's Lemma or a Dictionary form. It is the process where individual tokens from a sentence or words are reduced to their base form. Lemmatization is much more informative than Simple Stemming. Lemmatization looks at the surrounding text to determine a given words's part of speech where it doesn't categorize the phrases. In my journey of Natural Language Processing, Today I learned about Lemmatization and it's simple implementation using Spacy as well NLTK. I have covered the fundamentals of Natural Language Processing such as Tokenization, Stemming and Lemmatization. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics mentioned above. Excited for the days ahead!!
+- Topics: 
+  - **Fundamentals of Natural Language Processing**
   
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%204.PNG)
 
 **Day5 of 66DaysOfData!**
-- Natural Language Processing is a field of Linguistics, Computer Science, and Artificial Intelligence concerned with the interactions between Computers and Human language, in particular how to program computers to process and analyze large amounts of Natural Language Data. As a part of Natural Langauge Processing journey, I have started the book, [Natural Language Processing with Python](https://www.nltk.org/book/). It's really amazing and I have encountered some very basic functions but unknown to me such as concordance function, similar function, common context function and a basic dispersion plot as well. I will be using this book in my journey. Excited for the days ahead!!
-- [**Natural Language Processing with Python :)**](https://www.nltk.org/book/)
+- **Natural Language Processing:** Natural Language Processing is a field of Linguistics, Computer Science, and Artificial Intelligence concerned with the interactions between Computers and Human language, in particular how to program computers to process and analyze large amounts of Natural Language Data. As a part of Natural Langauge Processing Journey, I have started reading and Implementing from the Book **Natural Language Processing with Python**. It's really amazing and I have encountered many basic functions which are unknown to me such as Concordance Function, Similar Function, Common Context Function and a basic Dispersion plot as well. I will be using this Book in my journey. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited for the days ahead!!
+- Book:
+  - [**Natural Language Processing with Python**](https://www.nltk.org/book/)
 
 **Day6 of 66DaysOfData!**
-- In my journey of Natural Language Processing, Today I have explored about Gutenberg Corpus using NLTK and Python. I have also learned about various interesting challenges with proper explanation of each topic under the hood of NLP such as:
-  - Word Sense Disambiguation: In NLP, Word Sense Disambiguation is an open problem concerned with identifying which sense of a word is used in a sentence. The solution to this issue impacts other Computer related writing such as discourse, improving relevance of Search Engines, Anaphora Resolution, Coherence, and Inference.
-  - Pronounce Resolution
-  - Generating Language Output
-  - Machine Translation: Machine Translation is a sub field of Computational Linguistics that investigates the use of software to translate text or speech from one language to another.
-  - Spoken Dialog System
-  - Textual Entailment
+- In my Journey of Natural Language Processing, Today I have explored about Gutenberg Corpus using NLTK and Python. I have also learned about various Interesting Challenges with proper explanation of each Topics under the hood of Natural Language Processing from the Book **Natural Language Processing with Python**. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below.
+  - **Word Sense Disambiguation**: In Natural Language Processing, Word Sense Disambiguation is an open problem concerned with identifying which sense of a word is used in a sentence. The solution to this issue impacts other Computer related writing such as discourse, improving relevance of Search Engines, Anaphora Resolution, Coherence, and Inference.
+  - **Pronounce Resolution**
+  - **Generating Language Output**
+  - **Machine Translation**: Machine Translation is a sub field of Computational Linguistics that investigates the use of software to translate text or speech from one language to another.
+  - **Spoken Dialog System**
+  - **Textual Entailment**
+- Book:
+  - [**Natural Language Processing with Python**](https://www.nltk.org/book/)
 
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%206.PNG)
 
 **Day7 of 66DaysOfData!**
-- In my journey of Natural Language Processing, Today I have learned about different Text Corpora and Basic Corpus Functionality defined in NLTK. I have also learned about Loading own Corpus, Plotting and Tabulating Distributions and Generating Random Text with Bigrams. The topics I have covered are summarized below:
+- On my Journey of Natural Language Processing, Today I have learned about different Text Corpora and Basic Corpus Functionality defined in NLTK from the Book **Natural Language Processing with Python** . I have also learned about Loading own Corpus, Plotting and Tabulating Distributions and Generating Random Text with Bigrams here. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. The Topics I have covered are summarized below:
   - Web and Chat Text
   - Brown Corpus
   - Reuters Corpus
@@ -93,6 +104,8 @@
   - Annotated Text Corpora
   - Corpora in Other Languages
   - Conditional Frequency Distributions
+- Book:
+  - [**Natural Language Processing with Python**](https://www.nltk.org/book/)
 
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%207.PNG)
 
