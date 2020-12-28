@@ -114,9 +114,9 @@
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%207.PNG)
 
 **Day8 of 66DaysOfData!**
-- In my journey of Natural Language Processing, Today I am learning about Processing Raw Text in Natural Language Processing. Basically, I have completed processing the Text from Electronic Books and from HTML documents. Apart from that, I have learned about WordNet. The topics I have covered in WordNet are:
-  - The WordNet Hierarchy and
-  - Semantic Similarity: Semantic Similarity is a metric defined over a set of Documents or Terms where the idea of distance between items is based on the likeness of their meaning or semantic content as opposed to Lexicographical Similarity. Example:"Road" and "Driving".
+- On my Journey of Natural Language Processing, Today I have learned about Processing Raw Text in Natural Language Processing. Basically, I have completed Processing the Text from Electronic Books and from HTML documents from the Book **Natural Language Processing with Python**. Apart from that, I have learned about **WordNet**. The topics I have covered in WordNet are: **The WordNet Hierarchy** and **Semantic Similarity**: Semantic Similarity is a metric defined over a set of Documents or Terms where the idea of distance between items is based on the likeness of their meaning or Semantic content as opposed to Lexicographical Similarity. Example:"Road" and "Driving". I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Natural Language Processing with Python**](https://www.nltk.org/book/)
 
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%208.PNG)
 
