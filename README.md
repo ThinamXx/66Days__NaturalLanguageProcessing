@@ -1,7 +1,7 @@
 # **Journey of 66DaysofData in Natural Language Processing**
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/NLP.jpg)
 
-
+- I have listed all the Books which I had used in this Journey here:
 | Books |
 | ----- |
 | 1. [**Natural Language Processing with Python**](https://www.nltk.org/book/) |
@@ -9,7 +9,7 @@
 | 3. **Natural Language Processing with PyTorch** |
 | 4. [**Natural Language Processing Specialization**](https://www.coursera.org/specializations/natural-language-processing) |
 
-
+- I have listed all the Research Papers which I had read in this Journey here:
 | Research Papers |
 | --------------- |
 | 1. [**Teacher Forcing in Recurrent Neural Networks**](https://towardsdatascience.com/what-is-teacher-forcing-3da6217fed1c) |
@@ -36,6 +36,7 @@
 | 22. [**Finding Universal Grammatical Relations in Multilingual BERT**](https://nlp.stanford.edu/pubs/chi2020finding.pdf) |
 
 
+- I have listed all the Projects and Notebooks which I had completed in this Journey here:
 | Projects and Notebooks |
 | ---------------------- |
 | 1. [**Topic Modeling with Singular Value Decomposition and Non negative Matrix Formation**](https://github.com/ThinamXx/TopicModeling__NLP/blob/master/Topic%20Modeling%20with%20SVD%20and%20NMF.ipynb) |
