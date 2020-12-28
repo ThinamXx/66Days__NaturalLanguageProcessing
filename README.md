@@ -225,14 +225,14 @@ I hope you will gain some insights and work on the same. I hope you will also sp
 
 **Day21 of 66DaysOfData!**
 - In my journey of Natural Language Processing, Today I have read and implemented about Stopwords, Stemming, Lemmatization and Sentiment Analysis using VADER Approach which is the Algorithm composed by human and also the Machine Learning Approach with the help of Naive Bayes Classifier. I have completed the first 2 chapters of the book, [**Natural Language Processing in Action**](https://g.co/kgs/U82Sem) and it is helping me a lot along my Journey. I have presented the Implementation of VADER Approach in Sentiment Analysis along with Naive Bayes Classifier and I have also included the Implementation of Casual Tokenizer in the Movies Dataset. I hope you will gain insights about the Implementation of VADER Approach and Naive Bayes in Sentiment Analysis. Actually, VADER Approach is not as efficient as Machine Learning Approach such as Naive Bayes Classifier. I hope you will spend some time in learning about Naive Bayes in Sentiment Analysis along with VADER Approach. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Books mentioned below. Excited about the days to come!!
-- Books:
+- Book:
   - [**Natural Language Processing in Action**](https://g.co/kgs/U82Sem)
 
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%2021.PNG)
 
 **Day22 of 66DaysOfData!**
 - In my journey of Natural Language Processing, Today I have read and Implemented about Bag of Words, Vectorizing concept, Vector Spaces, Cosine Similarity, Zipf's Law and Inverse Frequency concept, Text Modeling, TFIDF, Relevance Ranking and Okapi BM25 concept. I have completed the first three chapters of the book [**Natural Language Processing in Action**](https://g.co/kgs/U82Sem) and this chapter primarily focuses on the concept of Vectorizing the Tokens which are obtained after Tokenization using TFIDF Vectorizer. Text Vectorization is the process of converting Text into Numerical representation. I have also read and Implemented the concept of Cosine Similarity under the hood of Natural Language Processing. I have presented the Implementation of TFIDF Vectorizer and also the process of Tokenizing the Text Documents and removing the Stopwords. I have also Implemented the Cosine Similarity using Numpy and pure Python as well in this Snapshot. I hope you will gain insights about Text Vectorization and Tokenization from here. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Books mentioned below. Excited about the days to come!!
-- Books:
+- Book:
   - [**Natural Language Processing in Action**](https://g.co/kgs/U82Sem)
 
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%2022.PNG)
@@ -392,7 +392,7 @@ Book:
 
 **Day41 of 66DaysOfData!**
 - In my journey of Natural Language Processing, Today I have read and Implemented about Feed Forward Networks for Natural Language Processing using PyTorch. I have covered the topics such as The Multi Layer Perceptron or MLP, Simple XOR Functions with MLP using PyTorch and Softmax Activation Function under the hood of **Natural Language Processing with PyTorch**. I have started working in Surname Classification Model Inferring Demographic Information which has applications from Product Recommendations to ensuring fair outcomes for users across different Demographics. I will be using PyTorch for building the Classifier Model. I have presented the Implementation of PyTorch in building the simple MLP Class here in the Snapshots. I have also presented the techniques for processing the raw Dataset for Surname Classification Project using PyTorch. I hope you will gain some insights and you will also spend some time learning about MLP and working on the same and get ready for building the Model. Excited about the days ahead !!
-Book:
+- Book:
   - **Natural Language Processing with PyTorch**
 - [**Surname Classification with Demographics: PyTorch**](https://github.com/ThinamXx/SurnameClassification__PyTorch.git)
 
@@ -402,7 +402,7 @@ Book:
 
 **Day42 of 66DaysOfData!**
 - The Vectorizer Class: The Vocabulary converts individual tokens into Integers and The Surname Vectorizer is responsible for applying the Vocabulary and converting surname into Vectors. Surnames are sequence of characters and each character is an individual token in the Vocabulary. In my journey of Natural Language Processing, Today I have read and Implemented about PyTorch's Data Representation, The Vocabulary Class, The Vectorizer Class and The DataLoader Class under the hood of **Natural Language Processing with PyTorch**. I have continued working in Surname Classification Model Inferring Demographic Information which has applications from Product Recommendations to ensuring fair outcomes for users across different Demographics. Today, I have worked out the Implementation of Dataset Class, Vectorizer Class, Vocabulary Class and Multi Layer Perceptron or MLP Classifier Model. I have presented the Implementation of Vectorizer Class using PyTorch here in the Snapshot. I hope you will gain some insights from here and you will also spend some time working on the same. Excited about the days to come!!
-Book:
+- Book:
   - **Natural Language Processing with PyTorch**
 - [**Surname Classification with Demographics: PyTorch**](https://github.com/ThinamXx/SurnameClassification__PyTorch.git)
 
@@ -410,7 +410,7 @@ Book:
 
 **Day43 of 66DaysOfData!**
 - In my journey of Natural Language Processing, Today I have read and Implemented about MLP Classifier, The Training Routine Class using PyTorch's Implementation, The Training Loop, Evaluation, Inference and Inspection of the Model prepared using PyTorch under the hood of **Natural Language Processing with PyTorch**. I have continued working in Surname Classification Model Inferring Demographic Information which has applications from Product Recommendations to ensuring fair outcomes for users across different Demographics. Today, I have worked out the Implementation of MLP Classifier, The Training Routine Class, Inference and Inspection of the Model prepared using PyTorch. I have presented the simple Implementation of MLP Classifier Model along with the Snapshot of the Inference and Inspection of the Model Evaluation using PyTorch. Actually, It is the continuation of yesterday's Snapshot. I hope you will gain some insights and you will also spend some time working on the same. Excited about the days to come !!
-Book:
+- Book:
   - **Natural Language Processing with PyTorch**
 - [**Surname Classification with Demographics: PyTorch**](https://github.com/ThinamXx/SurnameClassification__PyTorch.git)
 
@@ -420,14 +420,14 @@ Book:
 
 **Day44 of 66DaysOfData!**
 - **Logistic Regression**: Logistic Regression is a Statistical Model that in its basic form uses a logistic function to model a binary dependent variable, although many more complex extensions exist. In Regression Analysis, Logistic Regression is estimating the parameters of a Logistic Model in a form of Binary Regression. In my journey of Natural Language Processing, Today I have started learning from **Natural Language Processing Specialization** on Coursera. I have just started learning the first course and I will spend couple of weeks in this Specialization. I have covered the topics such as Logistic Regression and Naive Bayes along with various Fundamental Preprocessing steps under the hood of **Natural Language Processing**. This Specialization is managed and organized by the team of Andrew Ng i.e deeplearning.ai so that I will gain more exposure to Mathematics behind every topics which has very high Importance. I have presented the Implementation of Naive Bayes Classifier along with Testing procedure here in the Snapshot. I hope you will also spend some time going through this Specialization and I am so much excited about the days to come !!
-Course:
+- Course:
   - **Natural Language Processing Specialization: Coursera**
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2044.PNG)
 
 **Day45 of 66DaysOfData!**
 - **KNearest Neighbors**: The KNN Algorithm is a simple, supervised machine learning algorithm that can be used to solve both classification and regression problems. KNN works by finding the distances between a Query and all the examples in the Data, selecting the specified number of examples or K closest to the Query, then votes for the most Frequent Label or Averages the Labels. In my journey of Natural Language Processing, Today I have completed the first course i.e **Natural Language Processing with Classification and Vector Spaces** from Natural Language Processing Specialization on Coursera. I have covered the topics such as Vector Space Models, Euclidean Distance, Cosine Similarity, PCA, KNN, Logistic Regression, Naive Bayes and many more in this course. I have presented the simple Implementation of KNN along with techniques for creating Hash table here in the Snapshots. Actually, I have presented this Implementation on the basis of this Course for self understanding so I have not included all the dependencies here in the Snapshot. I hope you will also spend some time going through this Specialization. Excited about the days ahead !!
-Course:
+- Course:
   - **Natural Language Processing Specialization: Coursera**
 - [**Natural Language Processing with Classification and Vector Spaces**](https://lnkd.in/dZW-UbD)
 
@@ -435,28 +435,28 @@ Course:
 
 **Day46 of 66DaysOfData!**
 - **Minimum Edit Distance**: The Minimum Edit Distance between two strings is defined as the minimum number of Editing Operations like Insertion, Deletion and Substitution needed to transform one string into another. It's working principle is applicable in building the Auto Correction Model. In my journey of Natural Language Processing, Today I have started learning and Implementing NLP from the second course of **Natural Language Processing Specialization** on Coursera i.e **Natural Language Processing with Probabilistic Models**. I have covered the topics such as Autocorrect Models using Minimum Edit Distance Algorithm, POS Tagging, Markov's Models and The Viterbi Algorithm under the hood of Natural Language Processing. I will spend couple of weeks in this Specialization. I have presented the simple Implementation of Minimum Edit Distance Algorithm whose working principle is applicable in Auto Correction Model here in the Snapshot. I hope you will also spend some time learning about the topics mentioned above. I hope you will also spend some time in this Specialization. I am excited about the days to come!!
-Course:
+- Course:
   - **Natural Language Processing Specialization: Coursera**
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2046.PNG)
 
 **Day47 of 66DaysOfData!**
 - **Continuous Bag of Words**: In the Continuous Bag of Words Model, The distributed representations of context or surrounding words are combined to predict the word in the middle. The Model predicts the current word from a window of surrounding context words. In my journey of Natural Language Processing, Today I have learned about Ngrams and Probabilities, Sequence Probabilities, Smoothing, Word Embeddings, CBOW, Cleaning and Tokenization from the course **Natural Language Processing with Probabilistic Models** which is the second course in **Natural Language Processing Specialization** on Coursera. I have completed the two Courses in this Specialization. I have presented the simple Implementation of Initializing the Model, Softmax Activation Function, Forward Propagation, Cost Function and Back Propagation for training the CBOW Model here in the Snapshot. It presents the Mathematics behind simple Neural Network which is crucial for understanding the Implementation of Neural Networks and Deep Learning. I hope you will gain some insights and you will also spend some time learning about the topics mentioned above. Excited about days ahead!!
-Course:
+- Course:
   - **Natural Language Processing Specialization: Coursera**
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2047.PNG)
 
 **Day48 of 66DaysOfData!**
 - **Gated Recurrent Unit**: A Gated Recurrent Unit or GRU is a gating mechanism in RNN similar to a Long Short Term Memory or LSTM unit but without an output gate. GRU solves the vanishing Gradient problem that can come with standard RNN by using an Update Gate and a Reset Gate. In my journey of Natural Language Processing, Today I have started learning and Implementing NLP from the third course of **Natural Language Processing Specialization** on Coursera i.e **Natural Language Processing with Sequence Models**. I have covered the topics such as Trax and Neural Networks, Dense and ReLU Layers, Serial Layers, RNN and GRU using Trax, Deep and Bidirectional RNN under the hood of Natural Language Processing. **Neural Networks and Trax: Trax is good for Implementing new state of the Art Algorithms like Transformers, Reformers and BERT. It is actively maintained by Google Brain Team for Advanced Deep Learning tasks**. I have presented the simple Implementation of Training GRU Model using Trax here in the Snapshot. I hope you will gain some insights from here and you will also spend some time learning about Trax Frameworks in Natural Language Processing and Deep Learning. Excited about the days ahead!!
-Course:
+- Course:
   - **Natural Language Processing Specialization: Coursera**
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2048.PNG)
 
 **Day49 of 66DaysOfData!**
 - In my journey of Natural Language Processing, Today I have learned about LSTMs and Named Entity Recognition, RNNs and Vanishing Gradients, Siamese Neural Networks, Triplets and One Shot Learning from the course **Natural Language Processing with Sequence Models** which is the part of **Natural Language Processing Specialization** on Coursera. I have completed three Courses in this Specialization. I have started working with **Quora Questions Answers Dataset** to build a LSTM Model that can Identify the Similar Questions or the Duplicate Questions which is useful when we have to work with several versions of the same Questions. I will build this Model using **Trax Framework** which is maintained by Google Brain Team and good for Implementing new state of the Art Algorithms like Transformers, Reformers and BERT. I have presented the simple Implementation of Data Preparation for training the LSTM Model using Quora Dataset here in the Snapshot. I hope you will gain some insights and you will also start working on the same. Excited about the days ahead!!
-Course:
+- Course:
   - **Natural Language Processing Specialization: Coursera**
 - [**Duplicate Questions Recognition: Trax**](https://github.com/ThinamXx/DuplicateQuestions__Recognition.git)
 
@@ -464,7 +464,7 @@ Course:
 
 **Day50 of 66DaysOfData!**
 - Siamese Neural Network: Siamese Neural Network is an Artificial Neural Network which uses the same weight while working in tandem on two different input vectors to compute comparable output vectors. In my journey of Natural Language Processing, Today I have learned and Implemented about Data Generators or Iterators, Siamese Neural Networks, LSTMs and Triplet Loss under the hood of **Natural Language Processing**. I have continued working with **Quora Questions Answers Dataset** to build a Model using LSTM that can identify the Similar Questions or the Duplicate Questions which is useful when we have to work with several versions of the same Questions. I have presented the Implementation of Siamese Neural Network using LSTM Model along with the Implementation of Triplet Loss here in the Snapshots. I have also presented the Implementation of Training the Model using Data Generators and other dependencies. I have presented all the Implementations using Trax Framework here. I hope you will gain some insights from here and you will also continue working on the same. Excited about the days ahead!!
-Course:
+- Course:
   - **Natural Language Processing Specialization: Coursera**
 - [**Duplicate Questions Recognition: Trax**](https://github.com/ThinamXx/DuplicateQuestions__Recognition.git)
 
@@ -474,7 +474,7 @@ Course:
 
 **Day51 of 66DaysOfData!**
 - In my journey of Natural Language Processing, Today I have learned and Implemented about Siamese Neural Networks and LSTMs, Implementation of Trax in Siamese Neural Networks under the hood of **Natural Language Processing**. I have completed working with **Quora Questions Answers Dataset** to build a LSTM Model that can identify the Similar Questions or the Duplicate Questions which is useful when we have to work with several versions of the same Questions. I have build a Model using Trax which can identify the Duplicate Questions. **Neural Networks and Trax: Trax is good for Implementing new state of the Art Algorithms like Transformers, Reformers and BERT. It is actively maintained by Google Brain Team for Advanced Deep Learning tasks**. I have presented the Implementation of Siamese Neural Network using LSTM Model that can identify the Similar or Duplicate Questions here in the Snapshots. I have also presented the output of the Model here which fascinates me a lot. I hope you will gain some insights from here and you will also spend some time working on the same. Excited about the days ahead!!
-Course:
+- Course:
   - **Natural Language Processing Specialization: Coursera**
 - [**Duplicate Questions Recognition: Trax**](https://github.com/ThinamXx/DuplicateQuestions__Recognition.git)
 
@@ -484,7 +484,7 @@ Course:
 
 **Day52 of 66DaysOfData!**
 - In my journey of Natural Language Processing, Today I have learned about Sequence to Sequence Models, Alignment, Attention Models, BLEU or Bilingual Evaluation Understudy, ROUGE or Recall Oriented Understudy, Greedy Decoding, Random Sampling, Temperature Parameter, Beam Search Decoding, Minimum Bayes Risk or MBR and Teacher Forcing Algorithm in LSTM from the course **Natural Language Processing with Attention Models** which is the last course of **Natural Language Processing Specialization**. **Teacher Forcing: Teacher Forcing is the technique where the target word is passed as the next input to the Decoder. Training with Teacher Forcing converges faster**. I have presented the simple Implementation of Neural Machine Translation Model which uses Attention along with the Implementation of Preparing Attention Input using Encoder and Decoder Activations here in the Snapshots. I have presented this Implementation on the basis of this course for self understanding so I have not included all the dependencies here in the Snapshot. I hope you will also spend some time going through the topics mentioned above. Excited about the days ahead!!
-Course:
+- Course:
   - **Natural Language Processing Specialization: Coursera**
 - [**Teacher Forcing in RNNs**](https://lnkd.in/dpw2FwC)
 
@@ -492,14 +492,14 @@ Course:
 
 **Day53 of 66DaysOfData!**
 - **Transformer and Natural Language Processing**: The Transformer is a Deep Learning Model which are designed to handle Sequential Data such as Translation and Summarization and allows much more parallelization than RNNs such as LSTM. In my journey of Natural Language Processing, Today I have learned about Transformers and it's Applications, Dot Product, Multi Head and Causal Attentions, The Transformer Decoder and Summarizer, State of Art Transformers such as GPT2 or Generative Pretraining for Transformer, BERT or Bidirectional Encoder Representations from Transformer, T5 or Text to Text Transfer Transformer and Multitask Training Strategy and GLUE Benchmark from the course **Natural Language Processing with Attention Models** which is the last course of **Natural Language Processing Specialization** on Coursera. I have presented the simple Implementation of Transformer Language Model using Trax here in the Snapshot. I have also presented the Implementation of PositionalEncoder, FeedForward and DecoderBlock which returns the list of Layers required for the Transformer Model here. I hope you will gain some insights and you will also spend some time learning about the Transformer Model. Excited about the days ahead!!
-Course:
+- Course:
   - **Natural Language Processing Specialization: Coursera**
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2053.PNG)
 
 **Day54 of 66DaysOfData!**
 - Reformer: The Efficient Transformer or The Reformer is a Transformer Model which combines two crucial techniques to solve the problems of Attention and Memory allocation that limit Transformer Application to Long context windows. Reformer uses LSH to reduce the complexity of attending over Long sequences and Reversible residual layers to more efficiently use the memory available. In my journey of Natural Language Processing, Today I have learned about Long Sequential Data, Transformer Complexity, Locality Sensitive Hashing or LSH Attention, Reversible Residual Layers and Reformer from the course **Natural Language Processing with Attention Models** which is the last course of **Natural Language Processing Specialization**. I have presented the simple Implementation of Reformer Language Model along with the Implementation of Training the Reformer Model using Trax here in the Snapshots. I have also presented the Implementation of Forward Reversible Layer and Reverse Reversible Layer here. I hope you will gain some insights and you will also spend some time learning about the same. Excited about the days ahead!!
-Course:
+- Course:
   - **Natural Language Processing Specialization: Coursera**
 - [**Natural Language Processing Specialization Completion**](https://www.coursera.org/account/accomplishments/specialization/certificate/8LNP2U235SWZ)
 
