@@ -68,7 +68,7 @@
 - **Stemming in Natural Language Processing**: Stemming is a process of converting a word to its most General form or Stem. It's basically the process of removing the suffix from a word and reduce it to it's root word. It helps in reducing the size of Vocabulary. In my Journey of Natural Language Processing, Today I learned about Stemming in Natural Language Processing which is one of the most important steps while working with Text. I have presented the Implementation of Porter Stemmer, Snowball Stemmer and Lancaster Stemmer here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics mentioned above. Excited for coming days!!
   - **Porter Stemmer:** It is one of the most common and gentle stemmer which is very fast but not very precise.
   - **Snowball Stemmer:** It's actual name is English Stemmer is more precise over large Dataset.
-  - **Lancaster Stemmer** It is very aggressive algorithm. It will hugely trim down the working data which itself has pros and cons.
+  - **Lancaster Stemmer:** It is very aggressive algorithm. It will hugely trim down the working data which itself has pros and cons.
 - Topics: 
   - **Fundamentals of Natural Language Processing**
   
