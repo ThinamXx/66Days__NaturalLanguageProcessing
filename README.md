@@ -178,8 +178,7 @@ I hope you will gain some insights and work on the same. I hope you will also sp
 - **NonNegative Matrix Factorization or NMF:** Non Negative Matrix Factorization (NMF) is a factorization or constrain of non negative dataset. NMF is non exact factorization that factors into one short positive matrix.
 - **Topic Frequency Inverse Document Frequency or TFIDF:** TFIDF is a way to normalize the term counts by taking into account how often they appear in a document and how long the document is and how common or rare the document is.
 - In my journey of Natural Language Processing, Today I have learned and Implemented about SVD, NMF and TFIDF in Topic Modeling Project. I have captured just the overview of the implementations here. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Course mentioned below. Excited about the days ahead!!
-- Course:
-  - [**Fastai**](https://docs.fast.ai/)
+- Course: [**Fastai**](https://docs.fast.ai/)
   
 - [**Topic Modeling with SVD and NMF**](https://github.com/ThinamXx/NaturalLanguageProcessing_NLP/blob/master/Topic%20Modeling%20with%20SVD%20and%20NMF.ipynb)
 
@@ -189,8 +188,7 @@ I hope you will gain some insights and work on the same. I hope you will also sp
 
 **Day16 of 66DaysOfData!**
 - In my journey of Natural Language Processing, Today I have learned about Implementations of Natural Language Processing from **Fastai** course which has been published recently. As the Fastai course primarily focuses on the Coding part and follows the top down aspect of Learning and Teaching. It's bit complicated to learn than other courses. Fastai's API is really amazing and powerful as well. I learned the basic steps of Natural Language Processing with Fastai such as Word Tokenization, Subword Tokenization, Numericalization, and Preparing TextBlock and DataBlock. I am currently working on Sentiment Analysis of IMDB reviews using Fastai. I have shared the Implementations of the Word Tokenization, Subword Tokenization, Numericalization and process to prepare the TextBlock and DataBlock with Fastai here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Course mentioned below. Excited about the days ahead!!
-- Course:
-  - [**Fastai**](https://docs.fast.ai/)
+- Course: [**Fastai**](https://docs.fast.ai/)
 - [**Sentiment Classification of Internet Movie Database reviews**](https://github.com/ThinamXx/InternetMovieDatabase__NLP/blob/master/IMDB.ipynb)
 
 
@@ -198,8 +196,7 @@ I hope you will gain some insights and work on the same. I hope you will also sp
 
 **Day17 of 66DaysOfData!**
 - In my journey of Natural Language Processing, Today I have learned about the Implementation of Fastai in preparing a Sentiment Classifier Model. I have prepared a Model using Fastai API which can classify Sentiment of Internet Movie Database reviews i.e. classifying the Positive or Negative Sentiment. Fastai's API is really powerful and effective so that the Model can classify the Sentiment of Internet Movie Database reviews with above 90% accuracy in just few lines of code. I have learned about Word Tokenization, Subword Tokenization, Numericalization, TextBlock and DataBlock API and Training the Classifier Model using Fastai.I have presented the snapshot of the Implementation of Fastai API in preparing the Language Model and Training the Model. I have also presented the Implementation of Fastai API in preparing the Classifier Model using the Language Model and also the concept of unfreezing the Model. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Course mentioned below. Excited about the days ahead!!
-- Course:
-  - [**Fastai**](https://docs.fast.ai/)
+- Course: [**Fastai**](https://docs.fast.ai/)
 - [**Sentiment Classification of Internet Movie Database reviews**](https://github.com/ThinamXx/InternetMovieDatabase__NLP/blob/master/IMDB.ipynb)
 
 ![Image](https://github.com/ThinamXx/66DaysofData__NLP/blob/master/Images/Day%2017.PNG)
