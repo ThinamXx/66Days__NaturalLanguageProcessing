@@ -36,7 +36,6 @@
 | 22. [**Finding Universal Grammatical Relations in Multilingual BERT**](https://nlp.stanford.edu/pubs/chi2020finding.pdf) |
 
 
-I have listed all the Projects and Notebooks which I had completed in this Journey here:
 | Projects and Notebooks |
 | ---------------------- |
 | 1. [**Topic Modeling with Singular Value Decomposition and Non negative Matrix Formation**](https://github.com/ThinamXx/TopicModeling__NLP/blob/master/Topic%20Modeling%20with%20SVD%20and%20NMF.ipynb) |
