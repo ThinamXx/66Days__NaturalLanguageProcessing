@@ -8,7 +8,6 @@
 | 3. **Natural Language Processing with PyTorch** |
 | 4. [**Natural Language Processing Specialization**](https://www.coursera.org/specializations/natural-language-processing) |
 
-
 | Research Papers |
 | --------------- |
 | 1. [**Teacher Forcing in Recurrent Neural Networks**](https://towardsdatascience.com/what-is-teacher-forcing-3da6217fed1c) |
